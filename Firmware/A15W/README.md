@@ -2,9 +2,7 @@
 
 Put the firmware you want to flash inside the root directory of a USB drive formated in FAT32 and rename it A15W_Update.img
 
-Power the dongle (not from the car) and **wait till the red light is solid before inserting the USB key**.
-
-Wait for the blue and red LEDs to stop flashing, you can unplug the USB key when the the red light is solid, the device will reboot by itself.
+Details to trigger the firmware update can be found here: https://github.com/lvalen91/CPC200-CCPA-Firmware-Dump/blob/main/RE_Documention/04_Implementation/firmware_update.md
 
 | Firmware | Type | Download link |
 | - | - | - |
