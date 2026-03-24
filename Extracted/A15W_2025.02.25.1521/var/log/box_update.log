@@ -1,0 +1,1613 @@
+Save update log
+Filesystem                Size      Used Available Use% Mounted on
+/dev/root                12.5M     10.9M      1.6M  87% /
+devtmpfs                 60.2M         0     60.2M   0% /dev
+tmpfs                    60.3M      8.3M     52.0M  14% /tmp
+tmpfs                    60.3M      4.0K     60.3M   0% /var/run
+MemTotal:         123460 kB
+MemFree:           62972 kB
+MemAvailable:      71576 kB
+Buffers:               0 kB
+Cached:            19788 kB
+SwapCached:            0 kB
+Active:            28300 kB
+Inactive:          15728 kB
+Active(anon):      25156 kB
+Inactive(anon):     7584 kB
+Active(file):       3144 kB
+Inactive(file):     8144 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:         24288 kB
+Mapped:             2200 kB
+Shmem:              8484 kB
+Slab:               5748 kB
+SReclaimable:       1636 kB
+SUnreclaim:         4112 kB
+KernelStack:         672 kB
+PageTables:          604 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:       61728 kB
+Committed_AS:     122700 kB
+VmallocTotal:    1941504 kB
+VmallocUsed:        9448 kB
+VmallocChunk:    1743624 kB
+S   UID   PID  PPID   VSZ   RSS TTY   STIME TIME     CMD
+S     0     1     0  3204   692 0:0   17:25 00:00:01 init
+S     0     2     0     0     0 0:0   17:25 00:00:00 [kthreadd]
+S     0     3     2     0     0 0:0   17:25 00:00:00 [ksoftirqd/0]
+S     0     4     2     0     0 0:0   17:25 00:00:00 [kworker/0:0]
+S     0     5     2     0     0 0:0   17:25 00:00:00 [kworker/0:0H]
+S     0     6     2     0     0 0:0   17:25 00:00:00 [kworker/u2:0]
+S     0     7     2     0     0 0:0   17:25 00:00:00 [rcu_preempt]
+S     0     8     2     0     0 0:0   17:25 00:00:00 [rcu_sched]
+S     0     9     2     0     0 0:0   17:25 00:00:00 [rcu_bh]
+S     0    10     2     0     0 0:0   17:25 00:00:00 [migration/0]
+S     0    11     2     0     0 0:0   17:25 00:00:00 [khelper]
+S     0    12     2     0     0 0:0   17:25 00:00:00 [kdevtmpfs]
+S     0    13     2     0     0 0:0   17:25 00:00:00 [writeback]
+S     0    14     2     0     0 0:0   17:25 00:00:00 [bioset]
+S     0    15     2     0     0 0:0   17:25 00:00:00 [crypto]
+S     0    16     2     0     0 0:0   17:25 00:00:00 [kblockd]
+S     0    17     2     0     0 0:0   17:25 00:00:00 [ata_sff]
+S     0    18     2     0     0 0:0   17:25 00:00:00 [khubd]
+S     0    19     2     0     0 0:0   17:25 00:00:00 [kworker/u2:1]
+S     0    26     2     0     0 0:0   17:25 00:00:00 [kworker/0:1]
+S     0    27     2     0     0 0:0   17:25 00:00:00 [cfg80211]
+S     0    28     2     0     0 0:0   17:25 00:00:00 [cfinteractive]
+S     0    29     2     0     0 0:0   17:25 00:00:00 [kswapd0]
+S     0    30     2     0     0 0:0   17:25 00:00:00 [fsnotify_mark]
+D     0    38     2     0     0 0:0   17:25 00:00:00 [ttyLogFileThrea]
+S     0    39     2     0     0 0:0   17:25 00:00:00 [spi32766]
+S     0    42     2     0     0 0:0   17:25 00:00:00 [ci_otg]
+S     0    43     2     0     0 0:0   17:25 00:00:00 [ci_otg]
+S     0    44     2     0     0 0:0   17:25 00:00:00 [kworker/u2:2]
+S     0    45     2     0     0 0:0   17:25 00:00:00 [watchdog]
+S     0    46     2     0     0 0:0   17:25 00:00:00 [ipv6_addrconf]
+S     0    47     2     0     0 0:0   17:25 00:00:00 [krfcommd]
+S     0    48     2     0     0 0:0   17:25 00:00:00 [deferwq]
+S     0    49     2     0     0 0:0   17:25 00:00:00 [irq/81-imx_ther]
+R     0    50     2     0     0 0:0   17:25 00:00:10 [jffs2_gcd_mtd2]
+S     0    60     1  3204    84 0:0   17:25 00:00:00 init
+S     0    96     1 24592  3056 0:0   17:25 00:00:00 bluetoothDaemon -n
+S     0   124     1  4348  1604 0:0   17:25 00:00:00 dbus-daemon --system --pr
+S     0   135     2     0     0 0:0   17:25 00:00:00 [btfwwork]
+S     0   156     1  3204   608 0:0   17:25 00:00:00 {exe} ash /script/check_m
+S     0   158     1  8312  3968 0:0   17:25 00:00:00 ARMadb-driver
+S     0   189     2     0     0 0:0   17:25 00:00:00 [RTW_XMIT_THREAD]
+S     0   190     2     0     0 0:0   17:25 00:00:00 [RTW_RECV_THREAD]
+S     0   191     2     0     0 0:0   17:25 00:00:00 [RTW_CMD_THREAD]
+S     0   192     2     0     0 0:0   17:25 00:00:00 [RTWHALXT]
+S     0   193     2     0     0 0:0   17:25 00:00:00 [ksdioirqd/mmc0]
+S     0   198     2     0     0 0:0   17:25 00:00:00 [kworker/u3:0]
+S     0   199     2     0     0 0:0   17:25 00:00:00 [hci0]
+S     0   200     2     0     0 0:0   17:25 00:00:00 [hci0]
+S     0   202     1  1752   148 0:0   17:25 00:00:00 rtk_hciattach -s 115200 t
+S     0   203     2     0     0 0:0   17:25 00:00:00 [kworker/u3:1]
+S     0   207     2     0     0 0:0   17:25 00:00:00 [RTWHALXT]
+S     0   208     1  3796  1504 0:0   17:25 00:00:00 hostapd /etc/hostapd.conf
+S     0   220     1  1984   672 0:0   17:25 00:00:00 udhcpd
+S     0   228     1 22568  1440 0:0   17:25 00:00:00 colorLightDaemon
+S     0   247     1  5576  2584 0:0   17:25 00:00:00 hfpd -y -E -f
+S     0   286     2     0     0 0:0   17:25 00:00:00 [f_mtp]
+S     0   303     2     0     0 0:0   17:25 00:00:00 [kworker/0:2]
+S     0   309     1  4088  1284 0:0   17:25 00:00:00 boxNetworkService
+S     0   323     1  2492   844 0:0   17:26 00:00:00 boa
+S     0   330     1  4176  1372 0:0   17:26 00:00:00 hwSecret
+S     0   331     1  3204   620 0:0   17:26 00:00:00 {exe} ash /script/cpu_Usa
+S     0   332     1  3204   612 0:0   17:26 00:00:00 {exe} ash /script/check_l
+S     0   333   331  2204   760 0:0   17:26 00:00:00 riddle_top -m 3 -d 8
+S     0   349   158  8312  2976 0:0   17:26 00:00:00 ARMadb-driver
+S     0   350   158 55624 16496 0:0   17:26 00:00:01 ARMadb-driver
+S     0   367   158 16504  3640 0:0   17:26 00:00:00 ARMadb-driver
+S     0   707     1  3204   668 0:0   17:26 00:00:00 {exe} ash /script/update_
+S     0  1745   331  3072   412 0:0   17:27 00:00:00 sleep 8
+S     0  1749   332  3072   412 0:0   17:27 00:00:00 sleep 30
+S     0  1788   156  3072   412 0:0   17:27 00:00:00 sleep 2
+S     0  1838   707  3204   612 0:0   17:27 00:00:00 {exe} ash /tmp/update/tmp
+R     0  1843  1838  3208   676 0:0   17:27 00:00:00 ps -l
+[    0.000000] Booting Linux on physical CPU 0x0
+[    0.000000] Linux version 3.14.52+g94d07bb (sky@sky-vmware-1604) (gcc version 4.9.2 (GCC) ) #335 SMP PREEMPT Thu Aug 22 11:23:25 CST 2024
+[    0.000000] CPU: ARMv7 Processor [410fc075] revision 5 (ARMv7), cr=10c53c7d
+[    0.000000] CPU: PIPT / VIPT nonaliasing data cache, VIPT aliasing instruction cache
+[    0.000000] Machine model: Freescale i.MX6 UltraLite 14x14 EVK Board
+[    0.000000] Memory policy: Data cache writealloc
+[    0.000000] On node 0 totalpages: 32768
+[    0.000000] free_area_init_node: node 0, pgdat 805f0000, node_mem_map 87ef8000
+[    0.000000]   Normal zone: 256 pages used for memmap
+[    0.000000]   Normal zone: 0 pages reserved
+[    0.000000]   Normal zone: 32768 pages, LIFO batch:7
+[    0.000000] PERCPU: Embedded 8 pages/cpu @87ee2000 s8256 r8192 d16320 u32768
+[    0.000000] pcpu-alloc: s8256 r8192 d16320 u32768 alloc=8*4096
+[    0.000000] pcpu-alloc: [0] 0 
+[    0.000000] Built 1 zonelists in Zone order, mobility grouping off.  Total pages: 32512
+[    0.000000] Kernel command line: console=ttyLogFile0 root=/dev/mtdblock2 rootfstype=jffs2 mtdparts=21e0000.qspi:256k(uboot),3328K(kernel),12800K(rootfs) rootwait quiet rw
+[    0.000000] PID hash table entries: 512 (order: -1, 2048 bytes)
+[    0.000000] Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)
+[    0.000000] Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)
+[    0.000000] Memory: 123256K/131072K available (4260K kernel code, 194K rwdata, 1384K rodata, 204K init, 478K bss, 7816K reserved)
+[    0.000000] Virtual kernel memory layout:
+[    0.000000]     vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+[    0.000000]     fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+[    0.000000]     vmalloc : 0x88800000 - 0xff000000   (1896 MB)
+[    0.000000]     lowmem  : 0x80000000 - 0x88000000   ( 128 MB)
+[    0.000000]     modules : 0x7f000000 - 0x80000000   (  16 MB)
+[    0.000000]       .text : 0x80008000 - 0x8058b310   (5645 kB)
+[    0.000000]       .init : 0x8058c000 - 0x805bf040   ( 205 kB)
+[    0.000000]       .data : 0x805c0000 - 0x805f0b60   ( 195 kB)
+[    0.000000]        .bss : 0x805f0b6c - 0x806684c8   ( 479 kB)
+[    0.000000] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+[    0.000000] Preemptible hierarchical RCU implementation.
+[    0.000000] 	RCU restricting CPUs from NR_CPUS=4 to nr_cpu_ids=1.
+[    0.000000] RCU: Adjusting geometry for rcu_fanout_leaf=16, nr_cpu_ids=1
+[    0.000000] NR_IRQS:16 nr_irqs:16 16
+[    0.000000] Switching to timer-based delay loop
+[    0.000021] sched_clock: 32 bits at 3000kHz, resolution 333ns, wraps every 1431655765682ns
+[    0.001575] clocksource_of_init: no matching clocksources found
+[    0.001855] log file data init success
+[    0.001964] console [ttyLogFile0] enabled
+[    0.001977] tty-log-file: registered console driver for tty log file 0
+[    0.002174] Console: colour dummy device 80x30
+[    0.002213] Calibrating delay loop (skipped), value calculated using timer frequency.. 6.00 BogoMIPS (lpj=30000)
+[    0.002242] pid_max: default: 32768 minimum: 301
+[    0.002625] Mount-cache hash table entries: 1024 (order: 0, 4096 bytes)
+[    0.002647] Mountpoint-cache hash table entries: 1024 (order: 0, 4096 bytes)
+[    0.004298] CPU: Testing write buffer coherency: ok
+[    0.004830] CPU0: update cpu_power 1024
+[    0.004855] CPU0: thread -1, cpu 0, socket 0, mpidr 80000000
+[    0.004909] Setting up static identity map for 0x8040aeb0 - 0x8040af08
+[    0.040852] Brought up 1 CPUs
+[    0.040878] SMP: Total of 1 processors activated (6.00 BogoMIPS).
+[    0.040890] CPU: All CPU(s) started in SVC mode.
+[    0.042263] devtmpfs: initialized
+[    0.053800] VFP support v0.3: implementor 41 architecture 2 part 30 variant 7 rev 5
+[    0.054589] pinctrl core: initialized pinctrl subsystem
+[    0.055459] regulator-dummy: no parameters
+[    0.056101] NET: Registered protocol family 16
+[    0.056781] DMA: preallocated 256 KiB pool for atomic coherent allocations
+[    0.058131] cpuidle: using governor ladder
+[    0.058150] cpuidle: using governor menu
+[    0.058410] Use WDOG1 as reset source
+[    0.078545] syscon 20c8000.anatop: regmap [mem 0x020c8000-0x020c8fff] registered
+[    0.079298] vdd3p0: 2625 <--> 3400 mV at 3000 mV 
+[    0.080228] cpu: 725 <--> 1450 mV at 1150 mV 
+[    0.081301] vddsoc: 725 <--> 1450 mV at 1175 mV 
+[    0.086730] syscon 20e4000.iomuxc-gpr: regmap [mem 0x020e4000-0x020e7fff] registered
+[    0.093556] syscon 21ac000.romcp: regmap [mem 0x021ac000-0x021affff] registered
+[    0.095444] syscon 21bc000.ocotp-ctrl: regmap [mem 0x021bc000-0x021bffff] registered
+[    0.102822] hw-breakpoint: found 5 (+1 reserved) breakpoint and 4 watchpoint registers.
+[    0.102844] hw-breakpoint: maximum watchpoint size is 8 bytes.
+[    0.103969] imx6ul-pinctrl 20e0000.iomuxc: initialized IMX pinctrl driver
+[    0.106022] 20dc000.gpc supply pu not found, using dummy regulator
+[    0.121387] bio: create slab <bio-0> at 0
+[    0.128513] mxs-dma 1804000.dma-apbh: initialized
+[    0.129546] can-3v3: 3300 mV 
+[    0.130289] wlreg_on: 3300 mV 
+[    0.131396] 2020000.serial: ttymxc0 at MMIO 0x2020000 (irq = 58, base_baud = 5000000) is a IMX
+[    0.133212] 21e8000.serial: ttymxc1 at MMIO 0x21e8000 (irq = 59, base_baud = 5000000) is a IMX
+[    0.134513] 21ec000.serial: ttymxc2 at MMIO 0x21ec000 (irq = 60, base_baud = 5000000) is a IMX
+[    0.136233] SCSI subsystem initialized
+[    0.136725] libata version 3.00 loaded.
+[    0.137147] usbcore: registered new interface driver usbfs
+[    0.137308] usbcore: registered new interface driver hub
+[    0.137620] usbcore: registered new device driver usb
+[    0.142256] i2c i2c-0: IMX I2C adapter registered
+[    0.143004] i2c i2c-1: IMX I2C adapter registered
+[    0.143967] Advanced Linux Sound Architecture Driver Initialized.
+[    0.146115] Bluetooth: Core ver 2.18
+[    0.146227] NET: Registered protocol family 31
+[    0.146241] Bluetooth: HCI device and connection manager initialized
+[    0.146273] Bluetooth: HCI socket layer initialized
+[    0.146300] Bluetooth: L2CAP socket layer initialized
+[    0.146412] Bluetooth: SCO socket layer initialized
+[    0.147343] cfg80211: Calling CRDA to update world regulatory domain
+[    0.147427] cfg80211: World regulatory domain updated:
+[    0.147439] cfg80211:  DFS Master region: unset
+[    0.147453] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+[    0.147471] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (N/A, 2000 mBm)
+[    0.147487] cfg80211:   (2457000 KHz - 2482000 KHz @ 20000 KHz), (N/A, 2000 mBm)
+[    0.147504] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (N/A, 2000 mBm)
+[    0.147519] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz), (N/A, 2000 mBm)
+[    0.147535] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz), (N/A, 2000 mBm)
+[    0.147552] cfg80211:   (5490000 KHz - 5730000 KHz @ 160000 KHz), (N/A, 2000 mBm)
+[    0.147568] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm)
+[    0.147584] cfg80211:   (57240000 KHz - 63720000 KHz @ 2160000 KHz), (N/A, 0 mBm)
+[    0.148257] Switched to clocksource mxc_timer1
+[    0.174653] NET: Registered protocol family 2
+[    0.176702] TCP established hash table entries: 1024 (order: 0, 4096 bytes)
+[    0.176760] TCP bind hash table entries: 1024 (order: 1, 8192 bytes)
+[    0.176810] TCP: Hash tables configured (established 1024 bind 1024)
+[    0.176917] TCP: reno registered
+[    0.176944] UDP hash table entries: 256 (order: 1, 8192 bytes)
+[    0.176996] UDP-Lite hash table entries: 256 (order: 1, 8192 bytes)
+[    0.177607] NET: Registered protocol family 1
+[    0.180411] ldo2p5-dummy: no parameters
+[    0.182700] Bus freq driver module loaded
+[    0.184663] futex hash table entries: 256 (order: 2, 16384 bytes)
+[    0.201825] jffs2: version 2.2. (NAND) © 2001-2006 Red Hat, Inc.
+[    0.203687] fuse init (API version 7.22)
+[    0.204876] msgmni has been set to 240
+[    0.206834] io scheduler noop registered
+[    0.206855] io scheduler deadline registered
+[    0.206939] io scheduler cfq registered (default)
+[    0.208095] imx-weim 21b8000.weim: Driver registered.
+[    0.209823] imx-sdma 20ec000.sdma: no event needs to be remapped
+[    0.210034] imx-sdma 20ec000.sdma: loaded firmware 3.2
+[    0.219150] imx-sdma 20ec000.sdma: initialized
+[    0.221093] serial: Freescale lpuart driver
+[    0.246991] brd: module loaded
+[    0.259332] loop: module loaded
+[    0.265487] fsl-quadspi 21e0000.qspi: mx25l12805d (16384 Kbytes)
+[    0.265543] 3 cmdlinepart partitions found on MTD device 21e0000.qspi
+[    0.265559] Creating 3 MTD partitions on "21e0000.qspi":
+[    0.265614] 0x000000000000-0x000000040000 : "uboot"
+[    0.268729] 0x000000040000-0x000000380000 : "kernel"
+[    0.271633] 0x000000380000-0x000001000000 : "rootfs"
+[    0.274379] fsl-quadspi 21e0000.qspi: QuadSPI SPI NOR flash driver
+[    0.275339] spi_gpio spi4.17: gpio-miso property not found, switching to no-rx mode
+[    0.278521] usbcore: registered new interface driver cdc_ether
+[    0.278661] usbcore: registered new interface driver cdc_subset
+[    0.278781] usbcore: registered new interface driver zaurus
+[    0.278853] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[    0.278868] ehci-mxc: Freescale On-Chip EHCI Host driver
+[    0.279301] usbcore: registered new interface driver usb-storage
+[    0.283562] setup_reset_gpios:-2, flags 0
+[    0.283792] 2184000.usb supply vbus not found, using dummy regulator
+[    0.284969] mxs_phy 20c9000.usbphy: config usb vbus valid thresh to: 0, vbus_value: 00100000
+[    0.288833] ci_hdrc ci_hdrc.0: Init set fsm->a_vbus_vld = 1
+[    0.289518] setup_reset_gpios:-2, flags 0
+[    0.289893] 2184200.usb supply vbus not found, using dummy regulator
+[    0.291074] mxs_phy 20ca000.usbphy: config usb vbus valid thresh to: 0, vbus_value: 00100000
+[    0.292235] [otg_statemachine]  fsm->id = 0
+[    0.292251] [otg_set_state]  Set state: a_idle
+[    0.292270] [otg_set_protocol]  Changing role fsm->protocol= 0; new protocol= 1
+[    0.292307] ci_hdrc ci_hdrc.0: EHCI Host Controller
+[    0.297001] snvs_pwrkey 20cc000.snvs-pwrkey: can't get snvs clock
+[    0.297797] input: 20cc000.snvs-pwrkey as /devices/soc0/soc.1/2000000.aips-bus/20cc000.snvs-pwrkey/input/input0
+[    0.297982] snvs_pwrkey 20cc000.snvs-pwrkey: i.MX snvs powerkey probed
+[    0.299042] snvs_rtc 20cc034.snvs-rtc-lp: can't get snvs-rtc clock
+[    0.299419] check_alarm_past: alarm in the past
+[    0.300056] snvs_rtc 20cc034.snvs-rtc-lp: rtc core: registered 20cc034.snvs-rtc-lp as rtc0
+[    0.300381] i2c /dev entries driver
+[    0.302270] imx2-wdt 20bc000.wdog: IMX2+ Watchdog Timer enabled. timeout=60s (nowayout=0)
+[    0.303288] sdhci: Secure Digital Host Controller Interface driver
+[    0.303302] sdhci: Copyright(c) Pierre Ossman
+[    0.303314] sdhci-pltfm: SDHCI platform and OF driver helper
+[    0.305254] sdhci-esdhc-imx 2190000.usdhc: assigned as wifi host
+[    0.306495] mmc0: no vqmmc regulator found
+[    0.308448] ci_hdrc ci_hdrc.0: USB 2.0 started, EHCI 1.00
+[    0.309179] usb usb1: is_b_host:0, config:842e5800, parent:  (null), root_hub=842bf800
+[    0.309213] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+[    0.309239] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    0.309262] usb usb1: Product: EHCI Host Controller
+[    0.309284] usb usb1: Manufacturer: Linux 3.14.52+g94d07bb ehci_hcd
+[    0.309306] usb usb1: SerialNumber: ci_hdrc.0
+[    0.311115] hub 1-0:1.0: USB hub found
+[    0.311228] hub 1-0:1.0: 1 port detected
+[    0.312132] [otg_statemachine]  quit statemachine, changed = 1
+[    0.312230] [otg_set_state]  Set state: a_wait_vrise
+[    0.312270] [otg_statemachine]  quit statemachine, changed = 1
+[    0.348338] mmc0: SDHCI controller on 2190000.usdhc [2190000.usdhc] using ADMA
+[    0.361042] mmc1: no vqmmc regulator found
+[    0.361069] mmc1: no vmmc regulator found
+[    0.363017] sdhci-esdhc-imx 2190000.usdhc: card claims to support voltages below defined range 90ffffff
+[    0.383148] mmc0: new high speed SDIO card at address 0001
+[    0.398378] mmc1: SDHCI controller on 2194000.usdhc [2194000.usdhc] using ADMA
+[    0.408057] fsl-asrc 2034000.asrc: driver registered
+[    0.414388] [otg_set_state]  Set state: a_wait_bcon
+[    0.414424] [otg_statemachine]  quit statemachine, changed = 1
+[    0.421329] TCP: cubic registered
+[    0.422890] NET: Registered protocol family 10
+[    0.430789] sit: IPv6 over IPv4 tunneling driver
+[    0.445558] NET: Registered protocol family 17
+[    0.449067] Bluetooth: RFCOMM TTY layer initialized
+[    0.449111] Bluetooth: RFCOMM socket layer initialized
+[    0.453423] Bluetooth: RFCOMM ver 1.11
+[    0.453479] lib80211: common routines for IEEE802.11 drivers
+[    0.453494] lib80211_crypt: registered algorithm 'NULL'
+[    0.453508] lib80211_crypt: registered algorithm 'WEP'
+[    0.453520] lib80211_crypt: registered algorithm 'CCMP'
+[    0.453533] lib80211_crypt: registered algorithm 'TKIP'
+[    0.454221] check cpu speed flag: 03
+[    0.470029] can-3v3: disabling
+[    0.470055] regulator-dummy: disabling
+[    0.470825] driver->driver.name = android_usb ret=0
+[    0.470849] counting ret = 0 : 2184000.usb
+[    0.471108] file system registered
+[    0.471971] android_usb gadget: android_usb ready
+[    0.472116] snvs_rtc 20cc034.snvs-rtc-lp: setting system clock to 1970-01-01 00:00:00 UTC (0)
+[    0.506758] ALSA device list:
+[    0.509935]   No soundcards found.
+[    1.154276] VFS: Mounted root (jffs2 filesystem) on device 31:2.
+[    1.169995] devtmpfs: mounted
+[    1.170460] Freeing unused kernel memory: 204K (8058c000 - 805bf000)
+[    1.978355] random: nonblocking pool is initialized
+[    4.118431] Bluetooth: HCI UART driver ver 2.2.74e8f89.20210706-141240
+[    4.118458] Bluetooth: HCI H4 protocol initialized
+[    4.118468] Bluetooth: HCI Realtek H5 protocol initialized
+[    4.118479] rtk_btcoex: rtk_btcoex_init: version: 1.2
+[    4.118488] rtk_btcoex: create workqueue
+[    4.120019] rtk_btcoex: alloc buffers 1408, 2240 for ev and l2
+[    6.246647] Bluetooth: h5_open
+[    6.246671] Bluetooth: hci_uart_register_dev
+[    6.268403] rtk_btcoex: Open BTCOEX
+[    6.279224] rtk_btcoex: BTCOEX hci_rev 0x05a8
+[    6.279243] rtk_btcoex: BTCOEX lmp_subver 0xcbcd
+[    6.356376] start_addr=(0x20000), end_addr=(0x40000), buffer_size=(0x20000), smp_number_max=(16384)
+[    6.410823] IPv6: ADDRCONF(NETDEV_UP): wlan0: link is not ready
+[    7.109371] rtk_btcoex: BTCOEX hci_rev 0x05a8
+[    7.109390] rtk_btcoex: BTCOEX lmp_subver 0xcbcd
+[    7.335492] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+[    7.893617] android_usb: already disabled
+[    7.894963] android_enable_function: iap2
+[    7.894985] android_enable_function: ncmandroid_usb gadget: _iap2_bind_config
+[    7.895181] ncm_function_bind_config MAC: 00:00:00:00:00:00
+[    7.939300] ncm0: MAC c2:8e:30:52:e9:a3
+[    7.939323] ncm0: HOST MAC 26:98:d9:34:fd:a1
+[    8.075397] ncm0: eth_open
+[    8.075432] ncm0: eth_start
+[    8.377146] driver->driver.name = android_usb_accessory ret=1
+[    8.377168] counting ret = 1 : 2184000.usb
+[    8.377177] counting ret = 0 : 2184200.usb
+[    8.399399] Number of LUNs=8
+[    8.399429] Mass Storage Function, version: 2009/09/11
+[    8.399448] LUN: removable file: (no medium)
+[    8.399477] Number of LUNs=1
+[    8.399637] LUN: removable file: (no medium)
+[    8.399650] Number of LUNs=1
+[    8.435000] android_usb_accessory gadget: android_usb_accessory ready
+[    8.435219] [otg_statemachine]  fsm->id = 1
+[    8.435233] [otg_set_state]  Set state: b_idle
+[    8.435256] [otg_statemachine]  quit statemachine, changed = 1
+[    8.435383] [otg_set_state]  Set state: b_peripheral
+[    8.435402] [otg_set_protocol]  Changing role fsm->protocol= 0; new protocol= 2
+[    8.435438] SDIS = 0
+[    8.435447] SLOM = 1<6>[    8.435475] [otg_statemachine]  quit statemachine, changed = 1
+[    8.441419] android_enable_function: accessory
+[    8.459569] [otg_statemachine]  OTG_STATE_B_PERIPHERAL:, 0 0 1
+[    8.459592] [otg_statemachine]  quit statemachine, changed = 0
+[    8.706633] acc_ctrlrequest 80.06 v0100 i0000 l64
+[    8.706662] android_usb_accessory gadget: unknown class-specific control req 80.06 v0100 i0000 l64
+[    8.707302] android_work: sent uevent USB_STATE=CONNECTED
+[    8.716709] android_work: sent uevent USB_STATE=DISCONNECTED
+[    8.854557] acc_ctrlrequest 80.06 v0100 i0000 l18
+[    8.854587] android_usb_accessory gadget: unknown class-specific control req 80.06 v0100 i0000 l18
+[    8.854702] acc_ctrlrequest 80.06 v0f00 i0000 l5
+[    8.854720] android_usb_accessory gadget: unknown class-specific control req 80.06 v0f00 i0000 l5
+[    8.854733] android_usb_accessory gadget: USB_DT_BOS response value: -95
+[    8.854745] acc_ctrlrequest 80.06 v0f00 i0000 l5
+[    8.854757] android_usb_accessory gadget: unknown class-specific control req 80.06 v0f00 i0000 l5
+[    8.854851] acc_ctrlrequest 80.06 v0f00 i0000 l5
+[    8.854867] android_usb_accessory gadget: unknown class-specific control req 80.06 v0f00 i0000 l5
+[    8.854880] android_usb_accessory gadget: USB_DT_BOS response value: -95
+[    8.854893] acc_ctrlrequest 80.06 v0f00 i0000 l5
+[    8.854907] android_usb_accessory gadget: unknown class-specific control req 80.06 v0f00 i0000 l5
+[    8.854996] acc_ctrlrequest 80.06 v0f00 i0000 l5
+[    8.855013] android_usb_accessory gadget: unknown class-specific control req 80.06 v0f00 i0000 l5
+[    8.855027] android_usb_accessory gadget: USB_DT_BOS response value: -95
+[    8.855040] acc_ctrlrequest 80.06 v0f00 i0000 l5
+[    8.855054] android_usb_accessory gadget: unknown class-specific control req 80.06 v0f00 i0000 l5
+[    8.855150] acc_ctrlrequest 80.06 v0200 i0000 l9
+[    8.855167] android_usb_accessory gadget: unknown class-specific control req 80.06 v0200 i0000 l9
+[    8.855274] acc_ctrlrequest 80.06 v0200 i0000 l32
+[    8.855290] android_usb_accessory gadget: unknown class-specific control req 80.06 v0200 i0000 l32
+[    8.855395] acc_ctrlrequest 80.06 v0300 i0000 l255
+[    8.855411] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l255
+[    8.855528] acc_ctrlrequest 80.06 v0304 i0409 l255
+[    8.855545] android_usb_accessory gadget: unknown class-specific control req 80.06 v0304 i0409 l255
+[    8.855671] acc_ctrlrequest 80.06 v0303 i0409 l255
+[    8.855689] android_usb_accessory gadget: unknown class-specific control req 80.06 v0303 i0409 l255
+[    8.855813] acc_ctrlrequest 80.06 v0305 i0409 l255
+[    8.855831] android_usb_accessory gadget: unknown class-specific control req 80.06 v0305 i0409 l255
+[    8.855998] android_work: sent uevent USB_STATE=CONNECTED
+[    8.856455] acc_ctrlrequest 00.09 v0001 i0000 l0
+[    8.856479] android_usb_accessory gadget: unknown class-specific control req 00.09 v0001 i0000 l0
+[    8.856494] android_usb_accessory gadget: high-speed config #1: android_accessory
+[    8.856594] acc_ctrlrequest 80.06 v0306 i0409 l255
+[    8.856612] android_usb_accessory gadget: unknown class-specific control req 80.06 v0306 i0409 l255
+[    8.856762] acc_ctrlrequest 80.06 v0307 i0409 l255
+[    8.856779] android_usb_accessory gadget: unknown class-specific control req 80.06 v0307 i0409 l255
+[    8.865352] android_work: sent uevent USB_STATE=CONFIGURED
+[   18.094569] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   18.094606] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   18.094772] acc_ctrlrequest 80.06 v0303 i0409 l255
+[   18.094789] android_usb_accessory gadget: unknown class-specific control req 80.06 v0303 i0409 l255
+[   18.095013] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   18.095031] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   18.095171] acc_ctrlrequest 80.06 v0304 i0409 l255
+[   18.095188] android_usb_accessory gadget: unknown class-specific control req 80.06 v0304 i0409 l255
+[   18.095484] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   18.095499] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   18.095689] acc_ctrlrequest 80.06 v0305 i0409 l255
+[   18.095705] android_usb_accessory gadget: unknown class-specific control req 80.06 v0305 i0409 l255
+[   18.096148] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   18.096164] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   18.096317] acc_ctrlrequest 80.06 v0303 i0409 l255
+[   18.096333] android_usb_accessory gadget: unknown class-specific control req 80.06 v0303 i0409 l255
+[   18.096558] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   18.096574] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   18.096701] acc_ctrlrequest 80.06 v0304 i0409 l255
+[   18.096717] android_usb_accessory gadget: unknown class-specific control req 80.06 v0304 i0409 l255
+[   18.096944] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   18.096960] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   18.097105] acc_ctrlrequest 80.06 v0305 i0409 l255
+[   18.097120] android_usb_accessory gadget: unknown class-specific control req 80.06 v0305 i0409 l255
+[   18.097453] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   18.097469] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   18.097600] acc_ctrlrequest 80.06 v0306 i0409 l255
+[   18.097614] android_usb_accessory gadget: unknown class-specific control req 80.06 v0306 i0409 l255
+[   18.097781] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   18.097797] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   18.097921] acc_ctrlrequest 80.06 v0307 i0409 l255
+[   18.097937] android_usb_accessory gadget: unknown class-specific control req 80.06 v0307 i0409 l255
+[   18.941317] android_usb_accessory gadget: acc_function_disable
+[   18.941411] android_usb_accessory gadget: _acc_poll POLLHUP!
+[   18.960249] android_usb: already disabled
+[   19.111140] android_usb: already disabled
+[   20.158494] android_usb: already disabled
+[   22.192431] android_enable_function: accessory
+[   22.222835] [otg_statemachine]  OTG_STATE_B_PERIPHERAL:, 0 0 1
+[   22.222857] [otg_statemachine]  quit statemachine, changed = 0
+[   22.344818] android_work: sent uevent USB_STATE=DISCONNECTED
+[   22.471855] acc_ctrlrequest 80.06 v0100 i0000 l64
+[   22.471883] android_usb_accessory gadget: unknown class-specific control req 80.06 v0100 i0000 l64
+[   22.472524] android_work: sent uevent USB_STATE=CONNECTED
+[   22.482093] android_work: sent uevent USB_STATE=DISCONNECTED
+[   22.622369] acc_ctrlrequest 80.06 v0100 i0000 l18
+[   22.622398] android_usb_accessory gadget: unknown class-specific control req 80.06 v0100 i0000 l18
+[   22.622627] acc_ctrlrequest 80.06 v0f00 i0000 l5
+[   22.622645] android_usb_accessory gadget: unknown class-specific control req 80.06 v0f00 i0000 l5
+[   22.622659] android_usb_accessory gadget: USB_DT_BOS response value: -95
+[   22.622673] acc_ctrlrequest 80.06 v0f00 i0000 l5
+[   22.622686] android_usb_accessory gadget: unknown class-specific control req 80.06 v0f00 i0000 l5
+[   22.623141] android_work: sent uevent USB_STATE=CONNECTED
+[   22.623191] acc_ctrlrequest 80.06 v0f00 i0000 l5
+[   22.623207] android_usb_accessory gadget: unknown class-specific control req 80.06 v0f00 i0000 l5
+[   22.623221] android_usb_accessory gadget: USB_DT_BOS response value: -95
+[   22.623235] acc_ctrlrequest 80.06 v0f00 i0000 l5
+[   22.623246] android_usb_accessory gadget: unknown class-specific control req 80.06 v0f00 i0000 l5
+[   22.623377] acc_ctrlrequest 80.06 v0f00 i0000 l5
+[   22.623396] android_usb_accessory gadget: unknown class-specific control req 80.06 v0f00 i0000 l5
+[   22.623409] android_usb_accessory gadget: USB_DT_BOS response value: -95
+[   22.623422] acc_ctrlrequest 80.06 v0f00 i0000 l5
+[   22.623436] android_usb_accessory gadget: unknown class-specific control req 80.06 v0f00 i0000 l5
+[   22.623562] acc_ctrlrequest 80.06 v0200 i0000 l9
+[   22.623580] android_usb_accessory gadget: unknown class-specific control req 80.06 v0200 i0000 l9
+[   22.623696] acc_ctrlrequest 80.06 v0200 i0000 l32
+[   22.623715] android_usb_accessory gadget: unknown class-specific control req 80.06 v0200 i0000 l32
+[   22.623903] acc_ctrlrequest 80.06 v0300 i0000 l255
+[   22.623922] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l255
+[   22.624065] acc_ctrlrequest 80.06 v0304 i0409 l255
+[   22.624083] android_usb_accessory gadget: unknown class-specific control req 80.06 v0304 i0409 l255
+[   22.624247] acc_ctrlrequest 80.06 v0303 i0409 l255
+[   22.624265] android_usb_accessory gadget: unknown class-specific control req 80.06 v0303 i0409 l255
+[   22.624849] acc_ctrlrequest 80.06 v0305 i0409 l255
+[   22.624873] android_usb_accessory gadget: unknown class-specific control req 80.06 v0305 i0409 l255
+[   22.629617] acc_ctrlrequest 00.09 v0001 i0000 l0
+[   22.629648] android_usb_accessory gadget: unknown class-specific control req 00.09 v0001 i0000 l0
+[   22.629665] android_usb_accessory gadget: high-speed config #1: android_accessory
+[   22.629831] acc_ctrlrequest 80.06 v0306 i0409 l255
+[   22.629848] android_usb_accessory gadget: unknown class-specific control req 80.06 v0306 i0409 l255
+[   22.630080] acc_ctrlrequest 80.06 v0307 i0409 l255
+[   22.630099] android_usb_accessory gadget: unknown class-specific control req 80.06 v0307 i0409 l255
+[   22.633844] android_work: sent uevent USB_STATE=CONFIGURED
+[   22.685956] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   22.685986] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   22.686188] acc_ctrlrequest 80.06 v0303 i0409 l255
+[   22.686207] android_usb_accessory gadget: unknown class-specific control req 80.06 v0303 i0409 l255
+[   22.686624] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   22.686640] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   22.687040] acc_ctrlrequest 80.06 v0304 i0409 l255
+[   22.687057] android_usb_accessory gadget: unknown class-specific control req 80.06 v0304 i0409 l255
+[   22.687321] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   22.687339] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   22.687467] acc_ctrlrequest 80.06 v0305 i0409 l255
+[   22.687483] android_usb_accessory gadget: unknown class-specific control req 80.06 v0305 i0409 l255
+[   22.687854] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   22.687870] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   22.688022] acc_ctrlrequest 80.06 v0303 i0409 l255
+[   22.688038] android_usb_accessory gadget: unknown class-specific control req 80.06 v0303 i0409 l255
+[   22.688215] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   22.688231] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   22.688395] acc_ctrlrequest 80.06 v0304 i0409 l255
+[   22.688413] android_usb_accessory gadget: unknown class-specific control req 80.06 v0304 i0409 l255
+[   22.688658] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   22.688674] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   22.688822] acc_ctrlrequest 80.06 v0305 i0409 l255
+[   22.688839] android_usb_accessory gadget: unknown class-specific control req 80.06 v0305 i0409 l255
+[   22.689117] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   22.689135] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   22.689272] acc_ctrlrequest 80.06 v0306 i0409 l255
+[   22.689290] android_usb_accessory gadget: unknown class-specific control req 80.06 v0306 i0409 l255
+[   22.689509] acc_ctrlrequest 80.06 v0300 i0000 l254
+[   22.689525] android_usb_accessory gadget: unknown class-specific control req 80.06 v0300 i0000 l254
+[   22.689681] acc_ctrlrequest 80.06 v0307 i0409 l255
+[   22.689697] android_usb_accessory gadget: unknown class-specific control req 80.06 v0307 i0409 l255
+[   26.640995] rtk_btcoex: hci create connection, start paging
+[   27.626583] rtk_btcoex: connected, handle 0001, status 0x00
+[   27.626604] rtk_btcoex: Page success
+[   27.757058] rtk_btcoex: l2cap op 2, len 16, out 1
+[   27.757135] rtk_btcoex: TX l2cap conn req, hndl 0x0001, PSM 0x0001, scid 0x0040
+[   27.757147] rtk_btcoex: PSM(0x0001) do not need parse
+[   27.818441] rtk_btcoex: l2cap op 3, len 20, out 0
+[   27.818562] rtk_btcoex: RX l2cap conn rsp, hndl 0x0001, dcid 0x9011, scid 0x0040, result 0x0000
+[   27.854592] rtk_btcoex: l2cap op 6, len 16, out 1
+[   27.854682] rtk_btcoex: TX l2cap disconn req, hndl 0x0001, dcid 0x9011, scid 0x0040
+[   27.854697] rtk_btcoex: handle_l2cap_discon_req: handle 0x0001, dcid 0x9011, scid 0x0040, dir 1
+[   27.909892] rtk_btcoex: l2cap op 2, len 16, out 1
+[   27.909982] rtk_btcoex: TX l2cap conn req, hndl 0x0001, PSM 0x0003, scid 0x0041
+[   27.999073] rtk_btcoex: l2cap op 3, len 20, out 0
+[   27.999169] rtk_btcoex: RX l2cap conn rsp, hndl 0x0001, dcid 0x9111, scid 0x0041, result 0x0001
+[   28.116508] rtk_btcoex: l2cap op 3, len 20, out 0
+[   28.116666] rtk_btcoex: RX l2cap conn rsp, hndl 0x0001, dcid 0x9111, scid 0x0041, result 0x0000
+[   28.116678] rtk_btcoex: l2cap connection success, update connection
+[   28.116691] rtk_btcoex: update_profile_connection: is_add 1, profile_index 3
+[   28.116704] rtk_btcoex: update_profile_connection: btrtl_coex.profile_bitmap 0x08
+[   28.116717] rtk_btcoex: update_profile_connection: btrtl_coex.profile_refcount[0] = 0
+[   28.116729] rtk_btcoex: update_profile_connection: btrtl_coex.profile_refcount[1] = 0
+[   28.116741] rtk_btcoex: update_profile_connection: btrtl_coex.profile_refcount[2] = 0
+[   28.116753] rtk_btcoex: update_profile_connection: btrtl_coex.profile_refcount[3] = 1
+[   28.116765] rtk_btcoex: update_profile_connection: btrtl_coex.profile_refcount[4] = 0
+[   28.116778] rtk_btcoex: update_profile_connection: btrtl_coex.profile_refcount[5] = 0
+[   28.116790] rtk_btcoex: update_profile_connection: btrtl_coex.profile_refcount[6] = 0
+[   28.116802] rtk_btcoex: update_profile_connection: btrtl_coex.profile_refcount[7] = 0
+[   28.116815] rtk_btcoex: rtk_notify_profileinfo_to_fw: BufferSize 5
+[   28.116826] rtk_btcoex: rtk_notify_profileinfo_to_fw: NumberOfHandles 1
+[   28.116838] rtk_btcoex: rtk_notify_profileinfo_to_fw: handle 0x0001
+[   28.116849] rtk_btcoex: rtk_notify_profileinfo_to_fw: profile_bitmap 0x08
+[   28.116860] rtk_btcoex: rtk_notify_profileinfo_to_fw: profile_status 0x00
+[   28.116873] rtk_btcoex: rtk_vendor_cmd_to_fw: opcode 0xfc19
+[   29.108316] rtk_btcoex: count_pan_packet_timeout: pan_packet_count 33
+[   29.108336] rtk_btcoex: timeout_handler: pan idle->busy!
+[   29.108348] rtk_btcoex: update_profile_state: btrtl_coex.profie_bitmap = 8
+[   29.108358] rtk_btcoex: update_profile_state: btrtl_coex.profile_status = 8
+[   29.108371] rtk_btcoex: rtk_notify_profileinfo_to_fw: BufferSize 5
+[   29.108382] rtk_btcoex: rtk_notify_profileinfo_to_fw: NumberOfHandles 1
+[   29.108393] rtk_btcoex: rtk_notify_profileinfo_to_fw: handle 0x0001
+[   29.108404] rtk_btcoex: rtk_notify_profileinfo_to_fw: profile_bitmap 0x08
+[   29.108414] rtk_btcoex: rtk_notify_profileinfo_to_fw: profile_status 0x08
+[   29.108433] rtk_btcoex: rtk_vendor_cmd_to_fw: opcode 0xfc19
+[   30.108261] rtk_btcoex: count_pan_packet_timeout: pan busy->idle!
+[   30.108286] rtk_btcoex: update_profile_state: btrtl_coex.profie_bitmap = 8
+[   30.108297] rtk_btcoex: update_profile_state: btrtl_coex.profile_status = 0
+[   30.108310] rtk_btcoex: rtk_notify_profileinfo_to_fw: BufferSize 5
+[   30.108320] rtk_btcoex: rtk_notify_profileinfo_to_fw: NumberOfHandles 1
+[   30.108332] rtk_btcoex: rtk_notify_profileinfo_to_fw: handle 0x0001
+[   30.108343] rtk_btcoex: rtk_notify_profileinfo_to_fw: profile_bitmap 0x08
+[   30.108355] rtk_btcoex: rtk_notify_profileinfo_to_fw: profile_status 0x00
+[   30.108372] rtk_btcoex: rtk_vendor_cmd_to_fw: opcode 0xfc19
+[   31.108268] rtk_btcoex: count_pan_packet_timeout: pan_packet_count 17
+[   31.108287] rtk_btcoex: timeout_handler: pan idle->busy!
+[   31.108299] rtk_btcoex: update_profile_state: btrtl_coex.profie_bitmap = 8
+[   31.108309] rtk_btcoex: update_profile_state: btrtl_coex.profile_status = 8
+[   31.108322] rtk_btcoex: rtk_notify_profileinfo_to_fw: BufferSize 5
+[   31.108332] rtk_btcoex: rtk_notify_profileinfo_to_fw: NumberOfHandles 1
+[   31.108343] rtk_btcoex: rtk_notify_profileinfo_to_fw: handle 0x0001
+[   31.108354] rtk_btcoex: rtk_notify_profileinfo_to_fw: profile_bitmap 0x08
+[   31.108364] rtk_btcoex: rtk_notify_profileinfo_to_fw: profile_status 0x08
+[   31.108381] rtk_btcoex: rtk_vendor_cmd_to_fw: opcode 0xfc19
+[   32.108264] rtk_btcoex: count_pan_packet_timeout: pan busy->idle!
+[   32.108289] rtk_btcoex: update_profile_state: btrtl_coex.profie_bitmap = 8
+[   32.108300] rtk_btcoex: update_profile_state: btrtl_coex.profile_status = 0
+[   32.108312] rtk_btcoex: rtk_notify_profileinfo_to_fw: BufferSize 5
+[   32.108331] rtk_btcoex: rtk_notify_profileinfo_to_fw: NumberOfHandles 1
+[   32.108343] rtk_btcoex: rtk_notify_profileinfo_to_fw: handle 0x0001
+[   32.108355] rtk_btcoex: rtk_notify_profileinfo_to_fw: profile_bitmap 0x08
+[   32.108365] rtk_btcoex: rtk_notify_profileinfo_to_fw: profile_status 0x00
+[   32.108383] rtk_btcoex: rtk_vendor_cmd_to_fw: opcode 0xfc19
+[   34.401607] rtk_btcoex: HCI Disconnect, handle 0001, reason 0x13
+[   34.478475] rtk_btcoex: disconn cmpl evt: status 0x00, handle 0001, reason 0x16
+[   34.478494] rtk_btcoex: process disconn complete event.
+[   34.478510] rtk_btcoex: hci disconn, hndl 1, psm 3, dcid 9111, scid 41, profile 3
+[   34.478524] rtk_btcoex: disconn_profile: profile_ref[3] 0
+[   34.478537] rtk_btcoex: Delete profile: hndl 0x0001, psm 0x0003, dcid 0x9111, scid 0x0041
+[   34.478552] rtk_btcoex: rtk_notify_profileinfo_to_fw: BufferSize 2
+[   34.478562] rtk_btcoex: rtk_notify_profileinfo_to_fw: NumberOfHandles 0
+[   34.478573] rtk_btcoex: rtk_notify_profileinfo_to_fw: profile_status 0x00
+[   34.478587] rtk_btcoex: rtk_vendor_cmd_to_fw: opcode 0xfc19
+03-16 05:26:17.507213 PM [iAP2Engine] Send_changes:StartNowPlayingUpdate(0x5000), msgLen: 44
+03-16 05:26:17.510450 PM [CHudiAP2Server] DataOut(56/56) Seq(aa) Ack(b8):ff 5a 00 38 40 aa b8 01 cc 40 40 00 2e 50 00 00 18 00 00 00 04 00 01 00 04 00 04 00 04 00 06 00 04 00 0c 00 04 00 1a 00 10 00 01 00 04 00 00 00 04 00 01 00 04 00 07 80
+03-16 05:26:17.511062 PM [CHudiAP2Server] DataIn(16) Seq(b9) Ack(a8) :ff 5a 00 10 40 b9 a8 01 f5 40 40 00 06 57 02 21
+03-16 05:26:17.520703 PM [CHudiAP2Server] DataOut(9/9) Seq(aa) Ack(b9):ff 5a 00 09 40 aa b9 00 fb
+03-16 05:26:17.520891 PM [CiAP2Session_CarPlay] Message from iPhone: 0x5702 ReqWifiConfig
+03-16 05:26:17.523154 PM [iAP2WiFiConfigEngine] set wifi ssid name: AutoBox-76d4
+03-16 05:26:17.523820 PM [iAP2WiFiConfigEngine] set wifi pwd: 12345678
+03-16 05:26:17.523963 PM [iAP2Engine] Send_changes:WifiConfigInfo(0x5703), msgLen: 44
+03-16 05:26:17.544368 PM [CHudiAP2Server] DataOut(56/56) Seq(ab) Ack(b9):ff 5a 00 38 40 ab b9 01 ca 40 40 00 2e 57 03 00 11 00 01 41 75 74 6f 42 6f 78 2d 37 36 64 34 00 00 0d 00 02 31 32 33 34 35 36 37 38 00 00 05 00 03 02 00 05 00 04 a1 8b
+03-16 05:26:17.544900 PM [CHudiAP2Server] DataIn(21) Seq(ba) Ack(a8) :ff 5a 00 15 40 ba a8 01 ef 40 40 00 0b 4e 0d 00 05 00 00 01 14
+03-16 05:26:17.549409 PM [CHudiAP2Server] DataOut(9/9) Seq(ab) Ack(ba):ff 5a 00 09 40 ab ba 00 f9
+03-16 05:26:17.549592 PM [CiAP2Session_CarPlay] Message from iPhone: 0x4E0D WirelessCarPlayUpdateMsg
+03-16 05:26:17.557905 PM [CiAP2Session_CarPlay] Message:WirelessCarPlayUpdateMsg, status: 1
+03-16 05:26:17.561192 PM [CHudiAP2Server] DataIn(67) Seq(bb) Ack(a8) :ff 5a 00 43 40 bb a8 01 c0 40 40 00 39 4e 0e 00 16 00 00 31 34 3a 31 62 3a 61 30 3a 31 65 3a 64 65 3a 32 38 00 00 1d 00 01 30 30 30 30 38 31 34 30 30 30 30 36 32 30 45 45 31 30 31 33 43 30 31 43 00 58
+03-16 05:26:17.562805 PM [CHudiAP2Server] DataOut(9/9) Seq(ab) Ack(bb):ff 5a 00 09 40 ab bb 00 f8
+03-16 05:26:17.562984 PM [CiAP2Session_CarPlay] Message from iPhone: 0x4E0E TransportNotify
+03-16 05:26:17.591352 PM [CiAP2Session_CarPlay] Message:TransportNotify! id=0 size=22
+03-16 05:26:17.591936 PM [CHudiAP2Server] DataIn(60) Seq(bc) Ack(a8) :ff 5a 00 3c 40 bc a8 01 c6 40 40 00 32 ff fa 00 08 00 00 00 00 00 53 00 04 00 01 00 08 80 01 00 00 00 fa 00 04 00 02 00 08 80 02 00 00 00 fa 00 04 00 03 00 08 80 03 00 00 00 53 03
+03-16 05:26:17.592150 PM [CHudiAP2Server] DataOut(9/9) Seq(ab) Ack(bc):ff 5a 00 09 40 ab bc 00 f7
+03-16 05:26:17.592244 PM [CiAP2Session_CarPlay] Message from iPhone: 0xFFFA StartLocationInformation
+03-16 05:26:17.592311 PM [CiAP2Session_CarPlay] Message 0xFFFA StartLocationInformation Come!
+[D]2025-03-16 17:26:17.593 158-76fcf000/ARMadb-driver[MiddleManInterface]: pid:350 RiddleLinktype_UNKOWN?(33) connected, fd=9
+[D]2025-03-16 17:26:17.593 158-76fcf000/ARMadb-driver[Accessory_fd]: OniAPRiddlePhoneCommand -> StartGNSSReport
+03-16 05:26:17.595578 PM [CHudiAP2Server] DataIn(9) Seq(bc) Ack(a9) :ff 5a 00 09 40 bc a9 00 f9
+03-16 05:26:17.596179 PM [CHudiAP2Server] DataIn(21) Seq(bd) Ack(a9) :ff 5a 00 15 40 bd a9 01 eb 40 40 00 0b 41 55 00 05 00 02 00 d8
+03-16 05:26:17.597061 PM [CHudiAP2Server] DataOut(9/9) Seq(ab) Ack(bd):ff 5a 00 09 40 ab bd 00 f6
+03-16 05:26:17.597217 PM [CiAP2Session_CarPlay] Message from iPhone: 0x4155 CallStateUpdate
+03-16 05:26:17.597364 PM [iAP2CallStateEngine] callStateItemsArray: {
+    "id" : 65535
+    "friendlyName" : "CallStateItems"
+    "type" : "array"
+    "value" : 
+    [
+        {
+            "id" : 2
+            "friendlyName" : "Status"
+            "type" : "uint8"
+            "value" : 0
+        }
+    ]
+}
+
+03-16 05:26:17.600134 PM [CHudiAP2Server] DataIn(9) Seq(bd) Ack(aa) :ff 5a 00 09 40 bd aa 00 f7
+03-16 05:26:17.600597 PM [CHudiAP2Server] DataIn(70) Seq(be) Ack(aa) :ff 5a 00 46 40 be aa 01 b8 40 40 00 3c 50 01 00 20 00 00 00 05 00 01 00 00 08 00 04 00 00 00 00 00 05 00 06 00 00 05 00 0c 00 00 05 00 1a 80 00 16 00 01 00 05 00 00 00 00 08 00 01 00 00 00 00 00 05 00 07 00 d5
+03-16 05:26:17.601495 PM [CHudiAP2Server] DataOut(9/9) Seq(ab) Ack(be):ff 5a 00 09 40 ab be 00 f5
+03-16 05:26:17.601652 PM [CiAP2Session_CarPlay] Message from iPhone: 0x5001 NowPlaying
+[D]2025-03-16 17:26:17.606 158-76fcf000/ARMadb-driver[Accessory_fd]: Set BOX_TMP_DATA_AUDIO_TYPE: 0
+[D]2025-03-16 17:26:17.607 158-76fcf000/ARMadb-driver[Accessory_fd]: OniAPUpdateMediaPlayerPlaybackStatus -> kRiddleAudioSignal_MEDIA_STOP
+03-16 05:26:17.607896 PM [CHudiAP2Server] DataIn(38) Seq(bf) Ack(aa) :ff 5a 00 26 40 bf aa 01 d7 40 40 00 1c 50 01 00 16 00 01 00 05 00 00 00 00 08 00 01 00 00 00 00 00 05 00 07 00 e2
+03-16 05:26:17.608897 PM [CHudiAP2Server] DataOut(9/9) Seq(ab) Ack(bf):ff 5a 00 09 40 ab bf 00 f4
+03-16 05:26:17.609061 PM [CiAP2Session_CarPlay] Message from iPhone: 0x5001 NowPlaying
+[D]2025-03-16 17:26:17.610 158-76fcf000/ARMadb-driver[Accessory_fd]: Set BOX_TMP_DATA_AUDIO_TYPE: 0
+[D]2025-03-16 17:26:17.611 158-76fcf000/ARMadb-driver[Accessory_fd]: OniAPUpdateMediaPlayerPlaybackStatus -> kRiddleAudioSignal_MEDIA_STOP
+03-16 05:26:17.611755 PM [CHudiAP2Server] DataIn(43) Seq(c0) Ack(aa) :ff 5a 00 2b 40 c0 aa 01 d1 40 40 00 21 50 01 00 1b 00 00 00 05 00 01 00 00 08 00 04 00 00 00 00 00 05 00 06 00 00 05 00 0c 00 c5
+03-16 05:26:17.612780 PM [CHudiAP2Server] DataOut(9/9) Seq(ab) Ack(c0):ff 5a 00 09 40 ab c0 00 f3
+03-16 05:26:17.612943 PM [CiAP2Session_CarPlay] Message from iPhone: 0x5001 NowPlaying
+[D]2025-03-16 17:26:17.616 158-76fcf000/ARMadb-driver[Accessory_fd]: Set BOX_TMP_DATA_AUDIO_TYPE: 0
+[D]2025-03-16 17:26:17.616 158-76fcf000/ARMadb-driver[Accessory_fd]: OniAPUpdateMediaPlayerPlaybackStatus -> kRiddleAudioSignal_MEDIA_STOP
+03-16 05:26:17.629948 PM [CHudiAP2Server] DataIn(25) Seq(c1) Ack(aa) :ff 5a 00 19 40 c1 aa 01 e2 40 40 00 0f 50 01 00 09 00 00 00 05 00 1a 81 77
+03-16 05:26:17.630168 PM [CHudiAP2Server] DataOut(9/9) Seq(ab) Ack(c1):ff 5a 00 09 40 ab c1 00 f2
+03-16 05:26:17.630267 PM [CiAP2Session_CarPlay] Message from iPhone: 0x5001 NowPlaying
+[D]2025-03-16 17:26:17.634 158-76fcf000/ARMadb-driver[Accessory_fd]: Set BOX_TMP_DATA_AUDIO_TYPE: 0
+[D]2025-03-16 17:26:17.637 158-76fcf000/ARMadb-driver[Accessory_fd]: OniAPUpdateMediaPlayerPlaybackStatus -> kRiddleAudioSignal_MEDIA_STOP
+03-16 05:26:17.638334 PM [CHudiAP2Server] DataIn(20) Seq(c2) Ack(aa) :ff 5a 00 14 40 c2 aa 02 e5 80 04 00 00 00 00 00 00 00 00 7c
+03-16 05:26:17.638576 PM [CHudiAP2Server] DataOut(9/9) Seq(ab) Ack(c2):ff 5a 00 09 40 ab c2 00 f1
+03-16 05:26:17.645075 PM [CHudiAP2Server] DataOut(12/12) Seq(ac) Ack(c2):ff 5a 00 0c 40 ac c2 02 eb 80 01 7f
+03-16 05:26:17.720483 PM [CiAP2Session_FileTransfer] iPhoneToBox ##### sign=Sign_Setup, fileTransferIdentifer=128, size=0
+03-16 05:26:17.721026 PM [CHudiAP2Server] DataIn(9) Seq(c2) Ack(ab) :ff 5a 00 09 40 c2 ab 00 f1
+03-16 05:26:17.721435 PM [CHudiAP2Server] DataIn(20) Seq(c3) Ack(ab) :ff 5a 00 14 40 c3 ab 02 e3 81 04 00 00 00 00 00 00 00 00 7b
+03-16 05:26:17.722855 PM [CHudiAP2Server] DataOut(9/9) Seq(ac) Ack(c3):ff 5a 00 09 40 ac c3 00 ef
+03-16 05:26:17.724616 PM [CHudiAP2Server] DataOut(12/12) Seq(ad) Ack(c3):ff 5a 00 0c 40 ad c3 02 e9 81 01 7e
+03-16 05:26:17.759637 PM [CiAP2Session_FileTransfer] iPhoneToBox ##### sign=Sign_Setup, fileTransferIdentifer=129, size=0
+03-16 05:26:17.760182 PM [CHudiAP2Server] DataIn(9) Seq(c3) Ack(ac) :ff 5a 00 09 40 c3 ac 00 ef
+03-16 05:26:17.760676 PM [CHudiAP2Server] DataIn(12) Seq(c4) Ack(ac) :ff 5a 00 0c 40 c4 ac 02 e9 80 c0 c0
+03-16 05:26:17.761581 PM [CHudiAP2Server] DataOut(9/9) Seq(ad) Ack(c4):ff 5a 00 09 40 ad c4 00 ed
+03-16 05:26:17.763871 PM [CHudiAP2Server] DataOut(12/12) Seq(ae) Ack(c4):ff 5a 00 0c 40 ae c4 02 e7 80 05 7b
+03-16 05:26:17.800530 PM [CHudiAP2Server] DataIn(9) Seq(c4) Ack(ad) :ff 5a 00 09 40 c4 ad 00 ed
+03-16 05:26:17.805488 PM [CHudiAP2Server] DataIn(12) Seq(c5) Ack(ad) :ff 5a 00 0c 40 c5 ad 02 e7 81 c0 bf
+03-16 05:26:17.805841 PM [CHudiAP2Server] DataOut(9/9) Seq(ae) Ack(c5):ff 5a 00 09 40 ae c5 00 eb
+03-16 05:26:17.809194 PM [CHudiAP2Server] DataOut(12/12) Seq(af) Ack(c5):ff 5a 00 0c 40 af c5 02 e5 81 05 7a
+03-16 05:26:17.815502 PM [CHudiAP2Server] DataIn(9) Seq(c5) Ack(ae) :ff 5a 00 09 40 c5 ae 00 eb
+03-16 05:26:17.823947 PM [CHudiAP2Server] DataIn(9) Seq(c5) Ack(af) :ff 5a 00 09 40 c5 af 00 ea
+03-16 05:26:17.866018 PM [iAP2] wait link start msg
+[D]2025-03-16 17:26:17.867 158-76fcf000/ARMadb-driver[MiddleManInterface]: pid:350 CarPlay(3) connected, fd=10
+2025-03-16 17:26:18.37: info, Received a packet
+2025-03-16 17:26:18.37: info, received REQUEST
+2025-03-16 17:26:18.38: info, client hardware address 06:6c:ba:b4:36:b7
+2025-03-16 17:26:18.38: info, adding option 0x35
+2025-03-16 17:26:18.38: info, adding option 0x36
+2025-03-16 17:26:18.38: info, adding option 0x33
+2025-03-16 17:26:18.38: info, adding option 0x01
+2025-03-16 17:26:18.38: info, sending ACK to 192.168.43.104
+2025-03-16 17:26:18.38: info, unicasting packet to client yiaddr
+2025-03-16 17:26:18.122: info, save dhcp record: 06:6c:ba:b4:36:b7 192.168.43.104
+cat: can't open '/tmp/RiddleBoxData/PHONE_P2PGC_ADDR': No such file or directory
+2025-03-16 17:26:18.143: info, AP connection, save dhcp lease file
+[D]2025-03-16 17:26:18.636 158-76fcf000/ARMadb-driver[Accessory_fd]: 	From HUD Get ########## CarPlayControl(8) RequestKeyFrame(12)
+2025-03-16 05:26:18.637040 PM [CarPlayDemoApp] RequestKeyFrame
+2025-03-16 05:26:18.637464 PM [CarPlayDemoApp] RequestKeyFrame End
+2025-03-16 05:26:18.656121 PM [AirPlayReceiverSessionScreen] ### kAirPlayScreenOpCode_VideoConfig: 0x56!!!!
+2025-03-16 05:26:18.656305 PM [AirPlayReceiverSessionScreen] small params 00 56 01 
+2025-03-16 05:26:18.656385 PM [AirPlayReceiverSessionScreen] params c7 3a 2f 84 66 01 04 00 00 00 0a 45 00 80 56 44 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0a 45 00 80 56 44 00 00 00 00 00 00 00 00 00 00 0a 45 00 80 56 44 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+2025-03-16 05:26:18.656478 PM [AirPlayReceiverSessionScreen] inHeader->bodySize 41 
+2025-03-16 05:26:18.656534 PM [AirPlayReceiverSessionScreen] body 01 64 00 28 ff e1 00 16 27 64 00 28 ac 13 14 50 08 a0 6d f9 26 e0 21 a0 c0 da 08 84 65 80 01 00 04 28 ee 3c b0 02 00 00 00 
+2025-03-16 05:26:18.656622 PM [ScreenStream] ### Screen set widthPixels: 2208
+2025-03-16 05:26:18.656687 PM [ScreenStream] ### Screen set heightPixels: 858
+2025-03-16 05:26:18.656753 PM [ScreenStream] ### Screen set avcc data: 41, 28006401
+2025-03-16 05:26:18.656932 PM [ScreenStream] 
+01 64 00 28 ff e1 00 16 27 64 00 28 ac 13 14 50 
+08 a0 6d f9 26 e0 21 a0 c0 da 08 84 65 80 01 00 
+04 28 ee 3c b0 02 00 00 00 
+2025-03-16 05:26:18.658545 PM [CarPlayDemoApp] OnCommandResponse status: 0, content: {}
+
+[D]2025-03-16 17:26:18.658 158-76fcf000/ARMadb-driver[Accessory_fd]: recv CarPlay size info:2208x858
+2025-03-16 05:26:18.759274 PM [AirPlayReceiverSessionScreen] ### kAirPlayScreenOpCode_VideoConfig: 0x16!!!!
+2025-03-16 05:26:18.759454 PM [AirPlayReceiverSessionScreen] small params 00 16 01 
+2025-03-16 05:26:18.759530 PM [AirPlayReceiverSessionScreen] params f7 a9 aa 9a 66 01 04 00 00 00 0a 45 00 80 56 44 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0a 45 00 80 56 44 00 00 00 00 00 00 00 00 00 00 0a 45 00 80 56 44 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+2025-03-16 05:26:18.759625 PM [AirPlayReceiverSessionScreen] inHeader->bodySize 41 
+2025-03-16 05:26:18.759681 PM [AirPlayReceiverSessionScreen] body 01 64 00 28 ff e1 00 16 27 64 00 28 ac 13 14 50 08 a0 6d f9 26 e0 21 a0 c0 da 08 84 65 80 01 00 04 28 ee 3c b0 02 00 00 00 
+2025-03-16 05:26:18.759760 PM [ScreenStream] ### Screen set widthPixels: 2208
+2025-03-16 05:26:18.759887 PM [ScreenStream] ### Screen set heightPixels: 858
+2025-03-16 05:26:18.759958 PM [ScreenStream] ### Screen set avcc data: 41, 28006401
+2025-03-16 05:26:18.760084 PM [ScreenStream] 
+01 64 00 28 ff e1 00 16 27 64 00 28 ac 13 14 50 
+08 a0 6d f9 26 e0 21 a0 c0 da 08 84 65 80 01 00 
+04 28 ee 3c b0 02 00 00 00 
+[D]2025-03-16 17:26:18.761 158-76fcf000/ARMadb-driver[Accessory_fd]: recv CarPlay size info:2208x858
+2025-03-16 05:26:18.770657 PM [ScreenStream] ### Send h264 I frame data 56355 byte!
+[D]2025-03-16 17:26:21.410 158-75944450/ARMadb-driver[Accessory_fd]: box video frame rate: 8, 46.18 KB/s, audio frame rate: 0, 0.00 KB/s
+2025-03-16 05:26:23.395777 PM [AirPlayReceiverSessionScreen] Late frame (5873 byte, 520 ms, 1 total late frames): f11600000000000019ccccbc6a010400 ... 4c0a01c70ea6b1070d770d995aa4b6c0
+2025-03-16 05:26:23.401601 PM [AirPlayReceiverSessionScreen] Late frame (6455 byte, 492 ms, 2 total late frames): 3719000000000000a25455c56a010400 ... 21786b5441fe9f163076cba94fa16c38
+2025-03-16 05:26:23.407519 PM [AirPlayReceiverSessionScreen] Late frame (6458 byte, 431 ms, 3 total late frames): 3a19000000000000666666d66a010400 ... f782e6ec1dc9688290c61005e1ce0b91
+[D]2025-03-16 17:26:30.416 158-75944450/ARMadb-driver[Accessory_fd]: _SendPhoneCommandToCar: DeviceWifiNotConnected(1010)
+[D]2025-03-16 17:26:30.519 158-76fcf000/ARMadb-driver[Accessory_fd]: $$$ CMD_MANUAL_DISCONNECT_PHONE
+[E]2025-03-16 17:26:30.520 158-76fcf000/ARMadb-driver[Accessory_fd]: DisconnectPhoneConnection
+[D]2025-03-16 17:26:30.520 158-76fcf000/ARMadb-driver[ActionSessions]: 无线 CarPlay 退出
+[D]2025-03-16 17:26:30.520 158-76fcf000/ARMadb-driver[ActionSessions]: 开启蓝牙扫描发现
+03-16 05:26:30.521068 PM [RiddleBluetoothService_Interface_Control] OnDbusSignal org.riddle.BluetoothControl:Listen
+03-16 05:26:30.521249 PM [RiddleBluetoothService_Interface_Control] RiddleBluetoothService_Interface_Control::OnDbusMessage Listen
+03-16 05:26:30.521410 PM [RiddleBluetoothService_Interface_Control] StartListen_Inner beListened_ = 0
+03-16 05:26:30.618086 PM [BluetoothSocket_fd] 	$$$ Bluetooth StartListen IAP2!!!
+03-16 05:26:30.618339 PM [BluetoothSocket_fd] 	$$$ Bluetooth StartListen NEARBY!!!
+03-16 05:26:30.618498 PM [BluetoothSocket_fd] 	$$$ Bluetooth StartListen AAP!!!
+03-16 05:26:30.629434 PM [RiddleBluetoothService_Interface_Control] OnDbusSignal org.bluez.Adapter:ModeChanged
+03-16 05:26:30.629623 PM [RiddleBluetoothService_Interface_Control] ModeChanged discoverable
+03-16 05:26:30.632534 PM [RiddleBluetoothService_Interface_Control] OnDbusSignal org.bluez.Adapter:PropertyChanged
+######### CarPlay interrupt SIGTER(15)
+03-16 05:26:30.692254 PM [iAP2] ######### interrupt SIGTER(15)
+03-16 05:26:30.692496 PM [iAP2] ######### interrupt SIGTER(15)
+03-16 05:26:30.707484 PM [RiddleBluetoothService_Interface_Control] OnDbusSignal org.riddle.BluetoothControl:DisconnectRemoteDevice
+03-16 05:26:30.707680 PM [RiddleBluetoothService_Interface_Control] RiddleBluetoothService_Interface_Control::OnDbusMessage DisconnectRemoteDevice
+[W]2025-03-16 17:26:30.709 158-76fcf000/ARMadb-driver[Accessory_fd]: OnRead: CMD_MANUAL_DISCONNECT_PHONE(15), use time: 191 ms
+[E]2025-03-16 17:26:30.710 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ClosedByPeer 1! 10
+[W]2025-03-16 17:26:30.710 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ReadOne fail!!! err=9 cmd=Unkown RiddleHUDComand?(241) size=0 pid=350 _fd=-1
+[W]2025-03-16 17:26:30.711 158-76fcf000/ARMadb-driver[MiddleManInterface]: ClosedByPeer 2! -1
+[D]2025-03-16 17:26:30.717 158-76fcf000/ARMadb-driver[Accessory_fd]: OnCarPlayPhase 0
+[D]2025-03-16 17:26:30.747 158-76fcf000/ARMadb-driver[Accessory_fd]: Reset BOX_TMP_DATA_AUDIO_TYPE
+03-16 05:26:30.787495 PM [iAP2] ######### interrupt SIGTER(15)
+03-16 05:26:30.963989 PM [CHudiAP2Server] dispatch_main Quit!!
+03-16 05:26:30.964155 PM [CHudiAP2Server] StopRecvBroadCastiAP!
+check_log_size: 122164 byte
+[E]2025-03-16 17:26:31.479 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ClosedByPeer 1! 13
+[W]2025-03-16 17:26:31.479 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ReadOne fail!!! err=9 cmd=Unkown RiddleHUDComand?(241) size=0 pid=350 _fd=-1
+[W]2025-03-16 17:26:31.479 158-76fcf000/ARMadb-driver[MiddleManInterface]: ClosedByPeer 2! -1
+[E]2025-03-16 17:26:31.575 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ClosedByPeer 1! 12
+[W]2025-03-16 17:26:31.575 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ReadOne fail!!! err=9 cmd=VideoFrame(6) size=20 pid=350 _fd=-1
+[W]2025-03-16 17:26:31.575 158-76fcf000/ARMadb-driver[MiddleManInterface]: ClosedByPeer 2! -1
+[E]2025-03-16 17:26:31.575 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ClosedByPeer 1! 9
+[W]2025-03-16 17:26:31.575 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ReadOne fail!!! err=9 cmd=Unkown RiddleHUDComand?(246) size=66 pid=350 _fd=-1
+[W]2025-03-16 17:26:31.575 158-76fcf000/ARMadb-driver[MiddleManInterface]: ClosedByPeer 2! -1
+2025-03-16 05:26:31.673503 PM [AirPlay] Deregistered Bonjour _airplay._tcp. for stop
+2025-03-16 05:26:31.673780 PM [AirPlay] AirPlay servers stopped
+2025-03-16 05:26:31.674481 PM [AirPlay] AirPlay session ended: Dur=16s Reason=-6753/0xFFFFE59F kConnectionErr
+
+mDNSResponder:   9: ERROR: read_msg errno 104 (Connection reset by peer)
+2025-03-16 05:26:31.675753 PM [AirPlayReceiverSessionScreen] User quit event received
+2025-03-16 05:26:31.675902 PM [AirPlayReceiverSessionScreen] Screen end, total frames 375, late 464 ms, aver delay 1.24 ms
+2025-03-16 05:26:31.676168 PM [ScreenStream] Screen stream stopped
+2025-03-16 05:26:31.677155 PM [CarPlayDemoApp] Exit Carplay code: 0
+[E]2025-03-16 17:26:31.678 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ClosedByPeer 1! 11
+[W]2025-03-16 17:26:31.678 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ReadOne fail!!! err=9 cmd=VideoFrame(6) size=52731 pid=350 _fd=-1
+[W]2025-03-16 17:26:31.678 158-76fcf000/ARMadb-driver[MiddleManInterface]: ClosedByPeer 2! -1
+03-16 05:26:31.959111 PM [iAP2] wait link start msg
+[D]2025-03-16 17:26:31.960 158-76fcf000/ARMadb-driver[MiddleManInterface]: pid:350 CarPlay(3) connected, fd=9
+[D]2025-03-16 17:26:32.371 228-763e6450/colorLightDaemon[colorLightDaemon]: Phone disconnected!!
+[D]2025-03-16 17:26:32.386 228-763e6450/colorLightDaemon[colorLightDaemon]: Change status to "StartUp" or switch songs!!
+[D]2025-03-16 17:26:37.630 158-76fcf000/ARMadb-driver[Accessory_fd]: UPLOAD FILE: /tmp/Auto_Box_Update.img, 12585685 byte
+[D]2025-03-16 17:26:37.677 158-76fcf000/ARMadb-driver[Accessory_fd]: Is Update Img: Auto_Box_Update.img
+[W]2025-03-16 17:26:37.688 158-76fcf000/ARMadb-driver[Accessory_fd]: OnRead: HUDComand_A_UploadFile(153), use time: 691 ms
+Update OTA Start!!
+[D]2025-03-16 17:26:38.401 228-763e6450/colorLightDaemon[colorLightDaemon]: Change status to "Upgrading" or switch songs!!
+03-16 05:26:38.811868 PM [RiddleBluetoothService_Interface_Control] OnDbusSignal org.riddle.BluetoothControl:CancelAutoConnect
+03-16 05:26:38.812066 PM [RiddleBluetoothService_Interface_Control] RiddleBluetoothService_Interface_Control::OnDbusMessage CancelAutoConnect
+03-16 05:26:38.813226 PM [RiddleBluetoothService_Interface_Control] OnDbusSignal org.riddle.BluetoothControl:DisconnectRemoteDevice
+03-16 05:26:38.813412 PM [RiddleBluetoothService_Interface_Control] RiddleBluetoothService_Interface_Control::OnDbusMessage DisconnectRemoteDevice
+./
+./iw416_rootfs.tar.gz
+./lib/
+./lib/.delete
+./lib/firmware/
+./script/
+./script/phone_link_deamon.sh
+./script/init_audio_codec.sh
+./script/start_mass_storage.sh
+./script/cpu_UsageRate.sh
+./script/attach_bluetooth.sh
+./script/init_gpio.sh
+./script/check_update.sh
+./script/start_accessory.sh
+./script/init_bluetooth_wifi.sh
+./script/start_accessory_mass_storage.sh
+./script/check_log_size.sh
+./script/start_mtp.sh
+./script/getFuncModule.sh
+./script/update_box.sh
+./script/start_aoa.sh
+./script/start_iphone.sh
+./script/close_bluetooth_wifi.sh
+./script/copy_to_tmp.sh
+./script/start_main_service.sh
+./script/ko.tar.gz
+./script/update_box_ota.sh
+./script/open_log.sh
+./script/after_shutdown.sh
+./script/start_android_ncm.sh
+./script/start_ncm.sh
+./script/check_mfg_mode.sh
+./script/sync_box_time.sh
+./script/module_upgrade.sh
+./script/start_iap2_ncm.sh
+./script/start_bluetooth_wifi.sh
+./script/quickly_update.sh
+./usr/
+./usr/lib/
+./usr/lib/libdmsdpdvdevice.so
+./usr/lib/libboxtrans.so
+./usr/lib/libdmsdpdvcamera.so
+./usr/lib/libdmsdpcrypto.so
+./usr/lib/libARMtool.so
+./usr/lib/libHwDeviceAuthSDK.so
+./usr/lib/libcrypto.so
+./usr/lib/libnl-genl-3.so.200
+./usr/lib/libdmsdpdvaudio.so
+./usr/lib/libHisightSink.so
+./usr/lib/libdmsdpdvinterface.so
+./usr/lib/libdmsdpdvgps.so
+./usr/lib/libsecurec.so
+./usr/lib/libnl-3.so.200
+./usr/lib/libhicar.so
+./usr/lib/libssl.so.1.1
+./usr/lib/libdmsdpplatform.so
+./usr/lib/.delete
+./usr/lib/libcrypto.so.1.1
+./usr/lib/libdmsdphisight.so
+./usr/lib/libdmsdpaudiohandler.so
+./usr/lib/libdmsdpsec.so
+./usr/lib/libdns_sd.so
+./usr/lib/libssl.so
+./usr/lib/libnearby.so
+./usr/lib/libHwKeystoreSDK.so
+./usr/lib/libauthagent.so
+./usr/lib/libmanagement.so
+./usr/lib/libdmsdp.so
+./usr/lib/libdmsdpgpshandler.so
+./usr/lib/libdmsdpcamerahandler.so
+./usr/sbin/
+./usr/sbin/set_wifi_mac
+./usr/sbin/riddle_top
+./usr/sbin/usbmuxd
+./usr/sbin/ARMimg_maker
+./usr/sbin/ARMandroid_Mirror
+./usr/sbin/i2cdetect
+./usr/sbin/wpa_supplicant
+./usr/sbin/mtp-server
+./usr/sbin/hfpd
+./usr/sbin/hcitool
+./usr/sbin/boxNetworkService
+./usr/sbin/boa
+./usr/sbin/colorLightDaemon
+./usr/sbin/udhcpd
+./usr/sbin/ARMadb-driver
+./usr/sbin/dbus-daemon
+./usr/sbin/iw
+./usr/sbin/AutomaticTest
+./usr/sbin/mdnsd
+./usr/sbin/hwSecret
+./usr/sbin/hostapd
+./usr/sbin/adbd
+./usr/sbin/bluetoothDaemon
+./usr/sbin/hcid
+./usr/sbin/am
+./usr/sbin/hciconfig
+./usr/sbin/hwfsTools
+./usr/sbin/riddleBoxCfg
+./usr/sbin/AppleCarPlay
+./usr/sbin/echoDelayTest
+./usr/sbin/.delete
+./usr/sbin/wpa_cli
+./usr/sbin/ARMAndroidAuto
+./usr/sbin/mkfs.fat
+./usr/sbin/ARMHiCar
+./usr/sbin/i2cset
+./usr/sbin/ARMiPhoneIAP2
+./usr/sbin/boxImgTools.zip
+./tmp/
+./tmp/upg
+./tmp/once.sh
+./tmp/finish.sh
+./tmp/remove_unnecessary_file.sh
+./rtl8822cs_rootfs.tar.gz
+./etc/
+./etc/udhcpd.conf
+./etc/mime.types
+./etc/dbus-1/
+./etc/dbus-1/system.conf
+./etc/dbus-1/system.d/
+./etc/dbus-1/system.d/bluetooth.conf
+./etc/dbus-1/system.d/hfpd.conf
+./etc/dbus-1/system.d/riddle.conf
+./etc/dbus-1/session.conf
+./etc/inittab
+./etc/iccoa/
+./etc/iccoa/ccd.data
+./etc/riddle_default.conf
+./etc/DTMF-14809414327.pcm
+./etc/boa/
+./etc/boa/www/
+./etc/boa/www/www.tar.gz
+./etc/boa/boa.conf
+./etc/boa/cgi-bin/
+./etc/boa/cgi-bin/server.cgi
+./etc/boa/cgi-bin/upload.cgi
+./etc/boa/images/
+./etc/siri.png
+./etc/rgbLight.conf
+./etc/fstab
+./etc/box_product_type
+./etc/init.d/
+./etc/init.d/rcS
+./etc/hfpd.conf
+./etc/profile
+./etc/.delete
+./etc/car.png
+./etc/bluetooth/
+./etc/bluetooth/rfcomm.conf
+./etc/bluetooth/eir_info
+./etc/bluetooth/hcid.conf
+./etc/wpa_supplicant.conf
+./etc/mdev/
+./etc/mdev/udisk_insert.sh
+./etc/mdev/udisk_remove.sh
+./etc/mdev/udisk_hotplug.sh
+./etc/car_logo/
+./etc/car_logo/audi.png
+./etc/car_logo/geely.png
+./etc/car_logo/honda.png
+./etc/car_logo/toyota.png
+./etc/car_logo/chevrolet.png
+./etc/car_logo/vw.png
+./etc/car_logo/benz.png
+./etc/car_logo/hyundai.png
+./etc/car_logo/haval.png
+./etc/car_logo/default.png
+./etc/car_logo/lexus.png
+./etc/car_logo/nissan.png
+./etc/car_logo/bmw.png
+./etc/car_logo/mazda.png
+./etc/log_file
+./etc/software_version
+./etc/BoxHelper.apk
+./etc/hichain/
+./tmp/AutoBox.img
+A15W
+remove /tmp/update//usr/sbin/wpa_supplicant
+remove /tmp/update//usr/sbin/wpa_cli
+remove /tmp/update//usr/sbin/iw
+remove /tmp/update//etc/wpa_supplicant.conf
+remove /tmp/update//etc/p2p_supplicant.conf
+U2AW,A15W,O2W,UC2AW,U2AC,UC2CA,UC2AWD,UC2CAD,U2OW,
+remove /tmp/update//usr/sbin/fakeAADevice
+remove /tmp/update//usr/sbin/mtp-server
+remove /tmp/update//usr/sbin/adbd
+remove /tmp/update//usr/sbin/am
+remove /tmp/update//usr/sbin/echoDelayTest
+remove /tmp/update//etc/DTMF-14809414327.pcm
+remove /tmp/update//etc/car_logo
+A15HW,A15W,A15X,U2HW,U2HP,U2HC,UC2HW,UC2HC,UC2HCD,UC2HWD,
+remove /tmp/update//etc/iccoa
+remove /tmp/update//usr/sbin/DVRServer
+A15HW,A15W,A15X,
+remove /tmp/update//usr/sbin/boxImgTools.zip
+--- /etc/riddle_default.conf
++++ /tmp/update/etc/riddle_default.conf
+@@ -1,5 +1,4 @@
+ {
+-	"AutoResetUSB": 1,
+ 	"USBVID":	"1314",
+ 	"USBPID":	"1521"
+ }
+cat: can't open '/etc/riddle_special.conf': No such file or directory
+special config: 
+default config: {
+	"USBVID":	"1314",
+	"USBPID":	"1521"
+}
+Stop Link Deamon: CarPlay
+03-16 05:26:43.648955 PM [iAP2] ######### interrupt SIGTER(15)
+[E]2025-03-16 17:26:43.680 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ClosedByPeer 1! 9
+[W]2025-03-16 17:26:43.680 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ReadOne fail!!! err=9 cmd=Unkown RiddleHUDComand?(241) size=0 pid=350 _fd=-1
+[W]2025-03-16 17:26:43.680 158-76fcf000/ARMadb-driver[MiddleManInterface]: ClosedByPeer 2! -1
+End Link Deamon: CarPlay
+killall: AppleCarPlay: no process killed
+favicon.png
+index.html.gz
+js/
+js/chunk-1b177a8e.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-28e9b581.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0a3eac.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0aa1a9.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0ac02b.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0b364a.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0b6329.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0c0271.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0c113b.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0c4c12.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0c798c.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0c7ca8.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0c949b.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0ccb99.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0ccf58.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0cf742.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0d0816.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0d3e18.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0d63df.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0da3fc.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0dea92.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0e13e6.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0e17de.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0e4cd9.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d0e907b.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d208a7a.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d21023c.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d210a6b.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d216271.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d217a30.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d21dde4.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d21eeb9.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d21f11b.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d225bb5.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d225df2.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d22672b.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d230895.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-2d237173.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-31333f04.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-3df42f19.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-762b1658.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-76e91590.d82ef2c682dd15312d47.1735632235059.js
+js/chunk-85bf3582.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-9d0aed26.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-b2c8544c.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-b2c8544c.d82ef2c682dd15312d47.1735632235059.js.LICENSE.txt
+js/chunk-c5b13f76.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-vendors.d82ef2c682dd15312d47.1735632235059.js.gz
+js/chunk-vendors.d82ef2c682dd15312d47.1735632235059.js.LICENSE.txt
+js/PublicV2.d82ef2c682dd15312d47.1735632235059.js.gz
+lang/
+lang/en-70a02dab3b7811258ab7b870b686d489.js.gz
+lang/hu-ddda4d2e1f2a1c50e0f9fc02bc44eb52.js.gz
+lang/ko-d877ff3b2bfe71f6ee0ef5193724b766.js.gz
+lang/ru-f48ca08db11f829263ac6e8432303dd7.js.gz
+lang/tw-fafa63471414054a95d85a4be2f1e991.js.gz
+lang/zh-31a570681ce21d94c43d568445772529.js.gz
+static/
+static/css/
+static/css/chunk-1b177a8e.4d896b43.css
+static/css/chunk-28e9b581.45dbd953.css.gz
+static/css/chunk-31333f04.a8a6b628.css.gz
+static/css/chunk-3df42f19.5fb81042.css.gz
+static/css/chunk-762b1658.b1d0e2ec.css.gz
+static/css/chunk-76e91590.5b3201c2.css.gz
+static/css/chunk-85bf3582.2ff883b9.css.gz
+static/css/chunk-9d0aed26.dadc475a.css.gz
+static/css/chunk-b2c8544c.649fc177.css.gz
+static/css/chunk-c5b13f76.abbd2024.css.gz
+static/css/chunk-vendors.02c2aeea.css.gz
+static/css/PublicV2.cc156e1f.css.gz
+static/img/
+static/img/audio.cf671e84.svg
+static/img/back-black.80c99e61.svg
+static/img/back-white.8c3ba7f6.svg
+static/img/box.0e4e9a50.svg
+static/img/boxImg_active.4979afa2.svg
+static/img/boxInfo.5833bfc1.svg
+static/img/car.b11319c1.svg
+static/img/carImg_active.69e67888.svg
+static/img/carInfo.287abd8b.svg
+static/img/deviceManagement.47d81bd7.svg
+static/img/ellipsis.1b385983.svg
+static/img/feedback.a1fc804c.svg
+static/img/fileDel.cb7ecbd8.svg
+static/img/infoDel.325543b3.svg
+static/img/loading.c4e6e178.svg
+static/img/login-select-act.150352bd.svg
+static/img/login-select.e0ee71bc.svg
+static/img/login-top-act.65e8c0e6.svg
+static/img/login-top.7c8fe974.svg
+static/img/otherSettings.f9b2ec8f.svg
+static/img/phone.2c41db6b.svg
+static/img/phoneImg_active.54a85767.svg
+static/img/plus-blue.3d2cc1a2.svg
+static/img/PublicV2.e7b034d1.png
+static/img/questionMark.92fd0ba1.svg
+static/img/reset.200459c5.svg
+static/img/right.727d00b1.svg
+static/img/ring.e6c737be.svg
+static/img/rollback.1bce89a5.svg
+static/img/rotate-1.50978b21.svg
+static/img/update.3dd4897b.svg
+static/img/upgrade-fail.9b7c3d73.svg
+static/img/UpgradeSucceeded.0a7754bd.svg
+static/img/verDel-blue.4bcf1bcb.svg
+static/img/video.a02f6198.svg
+cp: can't stat '/tmp/update/etc/boa/www/*': No such file or directory
+etc/
+etc/p2p_supplicant.conf
+etc/hostapd.conf
+etc/wpa_supplicant.conf
+lib/
+lib/firmware/
+lib/firmware/rtlbt/
+lib/firmware/rtlbt/rtl8822cs_fw
+lib/firmware/rtlbt/rtl8822_ko.tar.gz
+lib/firmware/rtlbt/rtl8822cs_config_baud2M
+lib/firmware/rtlbt/rtl8822cs_config
+lib/firmware/rtlbt/rtl8822cs_config_baud1500K
+lib/firmware/rtlbt/rtl8822cs_config_baud3M
+usr/
+usr/lib/
+usr/sbin/
+usr/sbin/rtk_hciattach
+Start upg
+rm: can't remove '/tmp/*.img': No such file or directory
+rm: can't remove '/tmp/update.tar.gz': No such file or directory
+2025/03/16 17:26:47.130625 upg.go:377: main 
+2025/03/16 17:26:47.183935 upg.go:410: curRunningApps: 
+  PID USER       VSZ STAT COMMAND
+    1 root      3204 S    init
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u2:0]
+    7 root         0 SW   [rcu_preempt]
+    8 root         0 SW   [rcu_sched]
+    9 root         0 SW   [rcu_bh]
+   10 root         0 SW   [migration/0]
+   11 root         0 SW<  [khelper]
+   12 root         0 SW   [kdevtmpfs]
+   13 root         0 SW<  [writeback]
+   14 root         0 SW<  [bioset]
+   15 root         0 SW<  [crypto]
+   16 root         0 SW<  [kblockd]
+   17 root         0 SW<  [ata_sff]
+   18 root         0 SW   [khubd]
+   19 root         0 SW   [kworker/u2:1]
+   26 root         0 SW   [kworker/0:1]
+   27 root         0 SW<  [cfg80211]
+   28 root         0 SW   [cfinteractive]
+   29 root         0 SW   [kswapd0]
+   30 root         0 SW   [fsnotify_mark]
+   38 root         0 DW   [ttyLogFileThrea]
+   39 root         0 SW   [spi32766]
+   42 root         0 SW<  [ci_otg]
+   43 root         0 SW<  [ci_otg]
+   44 root         0 SW   [kworker/u2:2]
+   45 root         0 SW   [watchdog]
+   46 root         0 SW<  [ipv6_addrconf]
+   47 root         0 SW<  [krfcommd]
+   48 root         0 SW<  [deferwq]
+   49 root         0 SW   [irq/81-imx_ther]
+   50 root         0 SWN  [jffs2_gcd_mtd2]
+   60 root      3204 S    init
+   96 root     24592 S    bluetoothDaemon -n
+  124 root      4348 S    dbus-daemon --system --print-pid --print-address
+  135 root         0 SW<  [btfwwork]
+  156 root      3204 S    {exe} ash /script/check_mfg_mode.sh
+  158 root      8312 S    ARMadb-driver
+  189 root         0 SW   [RTW_XMIT_THREAD]
+  190 root         0 SW   [RTW_RECV_THREAD]
+  191 root         0 SW   [RTW_CMD_THREAD]
+  192 root         0 SW   [RTWHALXT]
+  193 root         0 SW   [ksdioirqd/mmc0]
+  198 root         0 SW<  [kworker/u3:0]
+  199 root         0 SW<  [hci0]
+  200 root         0 SW<  [hci0]
+  202 root      1752 S    rtk_hciattach -s 115200 ttymxc2 rtk_h5
+  203 root         0 SW<  [kworker/u3:1]
+  207 root         0 SW   [RTWHALXT]
+  208 root      3796 S    hostapd /etc/hostapd.conf -B
+  220 root      1984 S    udhcpd
+  225 root      4632 S    hcid -x -n -m 8196
+  228 root     22568 S    colorLightDaemon
+  247 root      5576 S    hfpd -y -E -f
+  252 root      2916 S    mdnsd
+  272 root      5576 S    hfpd -y -E -f
+  286 root         0 SW<  [f_mtp]
+  303 root         0 SW   [kworker/0:2]
+  309 root      4088 S    boxNetworkService
+  323 root      2492 S    boa
+  330 root      4176 S    hwSecret
+  331 root      3204 S    {exe} ash /script/cpu_UsageRate.sh
+  332 root      3204 S    {exe} ash /script/check_log_size.sh
+  333 root      2204 S    riddle_top -m 3 -d 8
+  349 root      8312 S    ARMadb-driver
+  350 root     55624 S    ARMadb-driver
+  367 root     16504 S    ARMadb-driver
+  421 root      3204 S    {exe} ash /script/phone_link_deamon.sh AndroidAuto s
+  439 root     57756 S    ARMAndroidAuto
+  690 root      3072 S    sleep 30
+  707 root      3204 S    {exe} ash /script/update_box_ota.sh Auto_Box_Update.
+  739 root      3072 S    sleep 8
+  751 root      3204 S    {exe} ash /tmp/update/tmp/once.sh
+  864 root      3072 S    sleep 2
+  884 root      819m S    /tmp/upg
+  889 root      3208 R    ps
+
+2025/03/16 17:26:47.184500 upg.go:225: App: ARMiPhoneIAP2 没有运行， 无需退出
+2025/03/16 17:26:47.251959 upgradeItemApps.go:445: AnalyseProcess(adb):false false 
+2025/03/16 17:26:47.252145 upg.go:225: App: AppleCarPlay 没有运行， 无需退出
+2025/03/16 17:26:47.252244 upg.go:225: App: carlife 没有运行， 无需退出
+2025/03/16 17:26:47.252328 upg.go:225: App: usbmuxd 没有运行， 无需退出
+mDNSResponder: mDNSResponder (Engineering Build) (Aug 20 2021 16:48:25) stopping
+2025/03/16 17:26:47.319821 upgradeItemApps.go:445: AnalyseProcess(mdnsd):false false 
+[E]2025-03-16 17:26:47.341 439-76f0f210/ARMAndroidAuto[autoapp]: Catch signal kill, process will exit!!!
+[OpenAuto] [Configuration] setVideoFPS = 2
+[OpenAuto] [OpenAuto] GetBoxConfig BOX_CFG_AndroidAuto Width: 800, Height: 310
+[OpenAuto] [Configuration] setVideoResolution = 1
+[OpenAuto] [Configuration] set margin w = 0
+[OpenAuto] [Configuration] set margin h = 170
+[D]2025-03-16 17:26:47.342 439-76f0f210/ARMAndroidAuto[autoapp]: AndroidAuto iWidth: 800, iHeight: 480
+[OpenAuto] SERVICE FACTORY INITED
+[OpenAuto] [App] waitForUSBDevice log0.
+[OpenAuto] [App] waitForUSBDevice dispatch thread id: 1973826640
+[OpenAuto] [App] waitForUSBDevice log1.
+[OpenAuto] [App] Waiting for device   1...
+[OpenAuto] [App] Waiting for device      2...
+[E]2025-03-16 17:26:47.356 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ClosedByPeer 1! 8
+[W]2025-03-16 17:26:47.356 158-76fcf000/ARMadb-driver[RiddleDataExchangeUtils]: ReadOne fail!!! err=9 cmd=Unkown RiddleHUDComand?(241) size=0 pid=350 _fd=-1
+[W]2025-03-16 17:26:47.356 158-76fcf000/ARMadb-driver[MiddleManInterface]: ClosedByPeer 2! -1
+Segmentation fault
+2025/03/16 17:26:47.398702 upgradeItemApps.go:445: AnalyseProcess(ARMAndroidAuto):false false 
+sig_term 15
+2025/03/16 17:26:47.466619 upgradeItemApps.go:445: AnalyseProcess(bluetoothDaemon):false false 
+hcid[225]: Unregister path: /org/bluez/hci0
+hcid[225]: Stopping SDP server
+2025-03-16 17:26:47.505122: Lost local SDP connection
+03-16 05:26:47.507190 PM [RiddleBluetoothService_Interface_Control] OnDbusSignal org.bluez.Agent:Release
+_OnDbusMessage! Release
+2025-03-16 17:26:47.508203: __DisconnectSco 1 1 0 -1!!!
+2025-03-16 17:26:47.508435: Bluetooth System Shut Down
+hcid[225]: Exit
+03-16 05:26:47.512362 PM [RiddleBluetoothService] _getDefaltAdapterPath err=Message did not receive a reply (timeout by message bus)
+03-16 05:26:47.512568 PM [RiddleBluetoothService_Interface_Control] OnDbusSignal org.bluez.Manager:DefaultAdapterChanged
+03-16 05:26:47.512672 PM [RiddleBluetoothService_Interface_Control] OnDbusSignal <<NULL>>:<<NULL>>
+2025/03/16 17:26:47.565446 upgradeItemApps.go:445: AnalyseProcess(hcid):false false 
+2025/03/16 17:26:47.610069 upgradeItemApps.go:445: AnalyseProcess(fakeiOSDevice):false false 
+2025/03/16 17:26:47.675285 upgradeItemApps.go:445: AnalyseProcess(mdnsd):false false 
+2025/03/16 17:26:47.708508 upgradeItem.go:116: memoryBytes: 56812-41776
+2025/03/16 17:26:47.718937 upgradeItem.go:92: Current System: 
+ supportCpu?:true software_version:2024.09.03.1028  mfgDate:20240119  memory(use:41776k free:56812k)
+2025/03/16 17:26:47.719111 flashOperator.go:269: mtd /dev/mtd0: size(262144k) erasesize(65536k)
+2025/03/16 17:26:47.719189 flashOperator.go:269: mtd /dev/mtd1: size(3407872k) erasesize(65536k)
+2025/03/16 17:26:47.719265 flashOperator.go:269: mtd /dev/mtd2: size(13107200k) erasesize(65536k)
+2025/03/16 17:26:47.719377 upgradeItem.go:165: GenCryptEnv 成功 
+Analyse Start!
+2025/03/16 17:26:47.727701 upgradeItemApps.go:255: 升级文件 filePathToCover:/etc/.delete fileName:.delete thisFile:/tmp/update/etc/.delete
+2025/03/16 17:26:47.728772 upgradeItemApps.go:255: 升级文件 filePathToCover:/lib/.delete fileName:.delete thisFile:/tmp/update/lib/.delete
+2025/03/16 17:26:47.729802 upgradeItemApps.go:255: 升级文件 filePathToCover:/usr/lib/.delete fileName:.delete thisFile:/tmp/update/usr/lib/.delete
+2025/03/16 17:26:47.730515 upgradeItemApps.go:99: 升级包里有同名文件: libcrypto.so, 会进行替换，无需删除!!!
+2025/03/16 17:26:47.730797 upgradeItemApps.go:99: 升级包里有同名文件: libssl.so, 会进行替换，无需删除!!!
+2025/03/16 17:26:47.731348 upgradeItemApps.go:255: 升级文件 filePathToCover:/usr/sbin/.delete fileName:.delete thisFile:/tmp/update/usr/sbin/.delete
+2025/03/16 17:26:47.894461 upgradeItemApps.go:69: IsUsingFlash(eir_info):false 
+2025/03/16 17:26:47.896193 upgradeItemApps.go:335: /tmp/update/etc/bluetooth/eir_info to /etc/bluetooth/eir_info orgsize:92 newsize:95 
+2025/03/16 17:26:47.902031 upgradeItemApps.go:69: IsUsingFlash(hcid.conf):false 
+2025/03/16 17:26:47.902447 upgradeItemApps.go:335: /tmp/update/etc/bluetooth/hcid.conf to /etc/bluetooth/hcid.conf orgsize:1233 newsize:1309 
+2025/03/16 17:26:48.131940 upg.go:353: 已写入: 0 byte, 升级进度: 11
+2025/03/16 17:26:48.138147 upgradeItemApps.go:69: IsUsingFlash(hostapd.conf):false 
+2025/03/16 17:26:48.138532 upgradeItemApps.go:335: /tmp/update/etc/hostapd.conf to /etc/hostapd.conf orgsize:507 newsize:506 
+2025/03/16 17:26:48.322652 upgradeItemApps.go:69: IsUsingFlash(software_version):false 
+2025/03/16 17:26:48.322928 upgradeItemApps.go:335: /tmp/update/etc/software_version to /etc/software_version orgsize:15 newsize:15 
+2025/03/16 17:26:48.327024 upgradeItemApps.go:69: IsUsingFlash(udhcpd.conf):false 
+2025/03/16 17:26:48.327419 upgradeItemApps.go:335: /tmp/update/etc/udhcpd.conf to /etc/udhcpd.conf orgsize:4226 newsize:4226 
+2025/03/16 17:26:48.367045 upgradeItemApps.go:69: IsUsingFlash(rtl8822_ko.tar.gz):false 
+2025/03/16 17:26:48.367552 upgradeItemApps.go:335: /tmp/update/lib/firmware/rtlbt/rtl8822_ko.tar.gz to /lib/firmware/rtlbt/rtl8822_ko.tar.gz orgsize:1008559 newsize:1008553 
+Exit phone link daemon when update!!!
+End Link Deamon: AndroidAuto
+2025/03/16 17:26:48.525776 upgradeItemApps.go:445: AnalyseProcess(after_shutdown.sh):false false 
+2025/03/16 17:26:48.525979 upgradeItemApps.go:69: IsUsingFlash(after_shutdown.sh):false 
+2025/03/16 17:26:48.526260 upgradeItemApps.go:335: /tmp/update/script/after_shutdown.sh to /script/after_shutdown.sh orgsize:1027 newsize:1029 
+2025/03/16 17:26:48.598716 upgradeItemApps.go:445: AnalyseProcess(attach_bluetooth.sh):false false 
+2025/03/16 17:26:48.598891 upgradeItemApps.go:69: IsUsingFlash(attach_bluetooth.sh):false 
+2025/03/16 17:26:48.599172 upgradeItemApps.go:335: /tmp/update/script/attach_bluetooth.sh to /script/attach_bluetooth.sh orgsize:4807 newsize:4928 
+2025/03/16 17:26:48.739598 upgradeItemApps.go:445: AnalyseProcess(getFuncModule.sh):false false 
+2025/03/16 17:26:48.739767 upgradeItemApps.go:69: IsUsingFlash(getFuncModule.sh):false 
+2025/03/16 17:26:48.739999 upgradeItemApps.go:335: /tmp/update/script/getFuncModule.sh to /script/getFuncModule.sh orgsize:3412 newsize:3571 
+2025/03/16 17:26:48.788359 upgradeItemApps.go:69: IsUsingFlash(ko.tar.gz):false 
+2025/03/16 17:26:48.788821 upgradeItemApps.go:335: /tmp/update/script/ko.tar.gz to /script/ko.tar.gz orgsize:127372 newsize:101173 
+2025/03/16 17:26:48.841061 upgradeItemApps.go:445: AnalyseProcess(module_upgrade.sh):false false 
+2025/03/16 17:26:48.841231 upgradeItemApps.go:69: IsUsingFlash(module_upgrade.sh):false 
+2025/03/16 17:26:48.841465 upgradeItemApps.go:335: /tmp/update/script/module_upgrade.sh to /script/module_upgrade.sh orgsize:7410 newsize:7416 
+2025/03/16 17:26:48.904995 upgradeItemApps.go:445: AnalyseProcess(phone_link_deamon.sh):false false 
+2025/03/16 17:26:48.905167 upgradeItemApps.go:69: IsUsingFlash(phone_link_deamon.sh):false 
+2025/03/16 17:26:48.905406 upgradeItemApps.go:335: /tmp/update/script/phone_link_deamon.sh to /script/phone_link_deamon.sh orgsize:3294 newsize:3600 
+2025/03/16 17:26:49.023244 upgradeItemApps.go:445: AnalyseProcess(start_android_ncm.sh):false false 
+2025/03/16 17:26:49.023481 upgradeItemApps.go:69: IsUsingFlash(start_android_ncm.sh):false 
+2025/03/16 17:26:49.023733 upgradeItemApps.go:335: /tmp/update/script/start_android_ncm.sh to /script/start_android_ncm.sh orgsize:0 newsize:770 
+2025/03/16 17:26:49.089623 upgradeItemApps.go:445: AnalyseProcess(start_bluetooth_wifi.sh):false false 
+2025/03/16 17:26:49.089793 upgradeItemApps.go:69: IsUsingFlash(start_bluetooth_wifi.sh):false 
+2025/03/16 17:26:49.090033 upgradeItemApps.go:335: /tmp/update/script/start_bluetooth_wifi.sh to /script/start_bluetooth_wifi.sh orgsize:3756 newsize:3956 
+2025/03/16 17:26:49.160758 upgradeItemApps.go:445: AnalyseProcess(start_iphone.sh):false false 
+2025/03/16 17:26:49.160929 upgradeItemApps.go:69: IsUsingFlash(start_iphone.sh):false 
+2025/03/16 17:26:49.161170 upgradeItemApps.go:335: /tmp/update/script/start_iphone.sh to /script/start_iphone.sh orgsize:630 newsize:696 
+2025/03/16 17:26:49.162009 upg.go:353: 已写入: 0 byte, 升级进度: 12
+2025/03/16 17:26:49.252100 upgradeItemApps.go:445: AnalyseProcess(start_mtp.sh):false false 
+2025/03/16 17:26:49.252270 upgradeItemApps.go:69: IsUsingFlash(start_mtp.sh):false 
+2025/03/16 17:26:49.252505 upgradeItemApps.go:335: /tmp/update/script/start_mtp.sh to /script/start_mtp.sh orgsize:1334 newsize:2099 
+2025/03/16 17:26:49.367159 upgradeItemApps.go:445: AnalyseProcess(update_box_ota.sh):false false 
+2025/03/16 17:26:49.367334 upgradeItemApps.go:69: IsUsingFlash(update_box_ota.sh):false 
+2025/03/16 17:26:49.367580 upgradeItemApps.go:335: /tmp/update/script/update_box_ota.sh to /script/update_box_ota.sh orgsize:2984 newsize:2984 
+2025/03/16 17:26:49.488425 upgradeItemApps.go:69: IsUsingFlash(libauthagent.so):true 
+2025/03/16 17:26:49.488740 upgradeItemApps.go:335: /tmp/update/usr/lib/libauthagent.so to /usr/lib/libauthagent.so orgsize:41558 newsize:41558 
+2025/03/16 17:26:49.639915 upgradeItemApps.go:335: /tmp/update/usr/lib/libcrypto.so to /usr/lib/libcrypto.so orgsize:0 newsize:0 (LinkFile)
+2025/03/16 17:26:49.732370 upgradeItemApps.go:69: IsUsingFlash(libdmsdpaudiohandler.so):true 
+2025/03/16 17:26:49.732981 upgradeItemApps.go:335: /tmp/update/usr/lib/libdmsdpaudiohandler.so to /usr/lib/libdmsdpaudiohandler.so orgsize:45232 newsize:45496 
+2025/03/16 17:26:49.751033 upgradeItemApps.go:69: IsUsingFlash(libdmsdpcrypto.so):false 
+2025/03/16 17:26:49.751328 upgradeItemApps.go:335: /tmp/update/usr/lib/libdmsdpcrypto.so to /usr/lib/libdmsdpcrypto.so orgsize:0 newsize:77864 
+2025/03/16 17:26:49.850726 upgradeItemApps.go:69: IsUsingFlash(libdmsdpgpshandler.so):true 
+2025/03/16 17:26:49.851032 upgradeItemApps.go:335: /tmp/update/usr/lib/libdmsdpgpshandler.so to /usr/lib/libdmsdpgpshandler.so orgsize:10240 newsize:10096 
+2025/03/16 17:26:49.977548 upgradeItemApps.go:69: IsUsingFlash(libhicar.so):true 
+2025/03/16 17:26:49.978121 upgradeItemApps.go:335: /tmp/update/usr/lib/libhicar.so to /usr/lib/libhicar.so orgsize:36916 newsize:36916 
+2025/03/16 17:26:50.186823 upg.go:353: 已写入: 0 byte, 升级进度: 13
+2025/03/16 17:26:50.356290 upgradeItemApps.go:335: /tmp/update/usr/lib/libssl.so to /usr/lib/libssl.so orgsize:0 newsize:0 (LinkFile)
+2025/03/16 17:26:50.443488 upgradeItemApps.go:50: 发现Bin文件: ARMAndroidAuto 在 /tmp/bin/ 目录, 不占用Flash空间
+2025/03/16 17:26:50.443798 upgradeItemApps.go:69: IsUsingFlash(ARMAndroidAuto):false 
+2025/03/16 17:26:50.444167 upgradeItemApps.go:335: /tmp/update/usr/sbin/ARMAndroidAuto to /usr/sbin/ARMAndroidAuto orgsize:598540 newsize:575620 
+2025/03/16 17:26:50.500304 upgradeItemApps.go:445: AnalyseProcess(ARMHiCar):false false 
+2025/03/16 17:26:50.500482 upgradeItemApps.go:69: IsUsingFlash(ARMHiCar):false 
+2025/03/16 17:26:50.500732 upgradeItemApps.go:335: /tmp/update/usr/sbin/ARMHiCar to /usr/sbin/ARMHiCar orgsize:70172 newsize:70520 
+2025/03/16 17:26:50.510413 upgradeItemApps.go:50: 发现Bin文件: ARMadb-driver 在 /tmp/bin/ 目录, 不占用Flash空间
+2025/03/16 17:26:50.510658 upgradeItemApps.go:69: IsUsingFlash(ARMadb-driver):false 
+2025/03/16 17:26:50.511031 upgradeItemApps.go:335: /tmp/update/usr/sbin/ARMadb-driver to /usr/sbin/ARMadb-driver orgsize:226752 newsize:211424 
+2025/03/16 17:26:50.543634 upgradeItemApps.go:50: 发现Bin文件: ARMiPhoneIAP2 在 /tmp/bin/ 目录, 不占用Flash空间
+2025/03/16 17:26:50.543892 upgradeItemApps.go:69: IsUsingFlash(ARMiPhoneIAP2):false 
+2025/03/16 17:26:50.544257 upgradeItemApps.go:335: /tmp/update/usr/sbin/ARMiPhoneIAP2 to /usr/sbin/ARMiPhoneIAP2 orgsize:180080 newsize:181084 
+2025/03/16 17:26:50.575346 upgradeItemApps.go:50: 发现Bin文件: AppleCarPlay 在 /tmp/bin/ 目录, 不占用Flash空间
+2025/03/16 17:26:50.575658 upgradeItemApps.go:69: IsUsingFlash(AppleCarPlay):false 
+2025/03/16 17:26:50.576167 upgradeItemApps.go:335: /tmp/update/usr/sbin/AppleCarPlay to /usr/sbin/AppleCarPlay orgsize:316948 newsize:318124 
+2025/03/16 17:26:50.613401 upgradeItemApps.go:50: 发现Bin文件: bluetoothDaemon 在 /tmp/bin/ 目录, 不占用Flash空间
+2025/03/16 17:26:50.613713 upgradeItemApps.go:69: IsUsingFlash(bluetoothDaemon):false 
+2025/03/16 17:26:50.614130 upgradeItemApps.go:335: /tmp/update/usr/sbin/bluetoothDaemon to /usr/sbin/bluetoothDaemon orgsize:167612 newsize:167880 
+2025/03/16 17:26:50.773847 upgradeItemApps.go:50: 发现Bin文件: hcid 在 /tmp/bin/ 目录, 不占用Flash空间
+2025/03/16 17:26:50.774105 upgradeItemApps.go:69: IsUsingFlash(hcid):false 
+2025/03/16 17:26:50.774513 upgradeItemApps.go:335: /tmp/update/usr/sbin/hcid to /usr/sbin/hcid orgsize:106184 newsize:105976 
+2025/03/16 17:26:50.828324 upgradeItemApps.go:445: AnalyseProcess(hcitool):false false 
+2025/03/16 17:26:50.828499 upgradeItemApps.go:69: IsUsingFlash(hcitool):false 
+2025/03/16 17:26:50.828743 upgradeItemApps.go:335: /tmp/update/usr/sbin/hcitool to /usr/sbin/hcitool orgsize:23848 newsize:48504 
+2025/03/16 17:26:50.838771 upgradeItemApps.go:50: 发现Bin文件: hfpd 在 /tmp/bin/ 目录, 不占用Flash空间
+2025/03/16 17:26:50.839044 upgradeItemApps.go:69: IsUsingFlash(hfpd):false 
+2025/03/16 17:26:50.839402 upgradeItemApps.go:335: /tmp/update/usr/sbin/hfpd to /usr/sbin/hfpd orgsize:125640 newsize:126248 
+2025/03/16 17:26:51.212789 upgradeItemApps.go:445: AnalyseProcess(usbmuxd):false false 
+2025/03/16 17:26:51.213001 upgradeItemApps.go:69: IsUsingFlash(usbmuxd):false 
+2025/03/16 17:26:51.213248 upgradeItemApps.go:335: /tmp/update/usr/sbin/usbmuxd to /usr/sbin/usbmuxd orgsize:58536 newsize:58508 
+2025/03/16 17:26:51.228356 upgradeItemApps.go:204: eir_info need 3 more, neednow: 3 
+2025/03/16 17:26:51.228778 upgradeItemApps.go:204: hcid.conf need 76 more, neednow: 79 
+2025/03/16 17:26:51.229090 upgradeItemApps.go:204: hostapd.conf need -1 more, neednow: 78 
+2025/03/16 17:26:51.229316 upgradeItemApps.go:204: software_version need 0 more, neednow: 78 
+2025/03/16 17:26:51.229511 upgradeItemApps.go:204: udhcpd.conf need 0 more, neednow: 78 
+2025/03/16 17:26:51.229801 upgradeItemApps.go:204: rtl8822_ko.tar.gz need -6 more, neednow: 72 
+2025/03/16 17:26:51.230007 upgradeItemApps.go:204: after_shutdown.sh need 2 more, neednow: 74 
+2025/03/16 17:26:51.230198 upgradeItemApps.go:204: attach_bluetooth.sh need 121 more, neednow: 195 
+2025/03/16 17:26:51.230390 upgradeItemApps.go:204: getFuncModule.sh need 159 more, neednow: 354 
+2025/03/16 17:26:51.230670 upgradeItemApps.go:204: ko.tar.gz need -26199 more, neednow: -25845 
+2025/03/16 17:26:51.230889 upgradeItemApps.go:204: module_upgrade.sh need 6 more, neednow: -25839 
+2025/03/16 17:26:51.231082 upgradeItemApps.go:204: phone_link_deamon.sh need 306 more, neednow: -25533 
+2025/03/16 17:26:51.231270 upgradeItemApps.go:204: start_android_ncm.sh need 770 more, neednow: -24763 
+2025/03/16 17:26:51.231467 upgradeItemApps.go:204: start_bluetooth_wifi.sh need 200 more, neednow: -24563 
+2025/03/16 17:26:51.231656 upgradeItemApps.go:204: start_iphone.sh need 66 more, neednow: -24497 
+2025/03/16 17:26:51.231845 upgradeItemApps.go:204: start_mtp.sh need 765 more, neednow: -23732 
+2025/03/16 17:26:51.232095 upgradeItemApps.go:204: update_box_ota.sh need 0 more, neednow: -23732 
+2025/03/16 17:26:51.232334 upgradeItemApps.go:204: libauthagent.so need 41558 more, neednow: 17826 
+2025/03/16 17:26:51.232657 upgradeItemApps.go:204: libcrypto.so need 0 more, neednow: 17826 
+2025/03/16 17:26:51.232890 upgradeItemApps.go:204: libdmsdpaudiohandler.so need 45496 more, neednow: 63322 
+2025/03/16 17:26:51.233114 upgradeItemApps.go:204: libdmsdpcrypto.so need 77864 more, neednow: 141186 
+2025/03/16 17:26:51.233392 upgradeItemApps.go:204: libdmsdpgpshandler.so need 10096 more, neednow: 151282 
+2025/03/16 17:26:51.233655 upgradeItemApps.go:204: libhicar.so need 36916 more, neednow: 188198 
+2025/03/16 17:26:51.234008 upgradeItemApps.go:204: libssl.so need 0 more, neednow: 188198 
+2025/03/16 17:26:51.234251 upgradeItemApps.go:204: ARMAndroidAuto need -22920 more, neednow: 165278 
+2025/03/16 17:26:51.234479 upgradeItemApps.go:204: ARMHiCar need 348 more, neednow: 165626 
+2025/03/16 17:26:51.234737 upgradeItemApps.go:204: ARMadb-driver need -15328 more, neednow: 150298 
+2025/03/16 17:26:51.235021 upgradeItemApps.go:204: ARMiPhoneIAP2 need 1004 more, neednow: 151302 
+2025/03/16 17:26:51.235259 upgradeItemApps.go:204: AppleCarPlay need 1176 more, neednow: 152478 
+2025/03/16 17:26:51.235475 upgradeItemApps.go:204: bluetoothDaemon need 268 more, neednow: 152746 
+2025/03/16 17:26:51.236042 upgradeItemApps.go:204: hcid need -208 more, neednow: 152538 
+2025/03/16 17:26:51.236536 upgradeItemApps.go:204: hcitool need 24656 more, neednow: 177194 
+2025/03/16 17:26:51.237091 upgradeItemApps.go:204: hfpd need 608 more, neednow: 177802 
+2025/03/16 17:26:51.237553 upgradeItemApps.go:204: usbmuxd need -28 more, neednow: 177774 
+2025/03/16 17:26:51.238039 upgradeItemApps.go:208: .delete need 0 more, neednow: 177774 
+2025/03/16 17:26:51.238256 upgradeItemApps.go:208: .delete need 0 more, neednow: 177774 
+2025/03/16 17:26:51.238389 upgradeItemApps.go:208: .delete need 0 more, neednow: 177774 
+2025/03/16 17:26:51.238507 upgradeItemApps.go:208: .delete need 0 more, neednow: 177774 
+2025/03/16 17:26:51.238644 upgradeItemApps.go:211: mayNeedMoreFlashSpaceSize=177774 minFlashSizeReserve=204800 freeSpace=1677721
+2025/03/16 17:26:51.238765 upgradeItemApps.go:232: AppUpdate May need more flash space: 177774
+2025/03/16 17:26:51.240971 upg.go:353: 已写入: 0 byte, 升级进度: 14
+2025/03/16 17:26:51.300271 flashOperator.go:100: boot size 3670016
+2025/03/16 17:26:51.656793 upg.go:470: 升级总共需要写入Flash: 6890712 byte
+2025/03/16 17:26:51.688440 upgradeItemApps.go:146: delete /etc/mirror.bgd
+2025/03/16 17:26:51.713709 upgradeItemApps.go:146: delete /lib/libasan.so.1.0.0
+2025/03/16 17:26:51.741770 upgradeItemApps.go:146: delete /lib/libubsan.so.0.0.0
+2025/03/16 17:26:51.770102 upgradeItemApps.go:146: delete /usr/lib/libssl.so.1.0.0
+2025/03/16 17:26:51.797527 upgradeItemApps.go:146: delete /usr/lib/libcrypto.so.1.0.0
+2025/03/16 17:26:51.835921 upgradeItemApps.go:146: delete /usr/sbin/adb
+2025/03/16 17:26:51.885864 upgradeItemApps.go:146: delete /usr/sbin/carlife
+2025/03/16 17:26:52.227056 upgradeItemApps.go:402: 创建 /script/ 文件夹 后 覆盖 /tmp/update/script/ko.tar.gz to /script/ko.tar.gz 完成
+2025/03/16 17:26:52.284749 upg.go:353: 已写入: 101174 byte, 升级进度: 15
+2025-03-16 17:26:52.514087: Error connecting to local SDP
+2025/03/16 17:26:53.302437 upg.go:353: 已写入: 101174 byte, 升级进度: 16
+2025/03/16 17:26:54.324073 upg.go:353: 已写入: 101174 byte, 升级进度: 17
+2025/03/16 17:26:54.430148 upgradeItemApps.go:402: 创建 /usr/sbin/ 文件夹 后 覆盖 /tmp/update/usr/sbin/ARMAndroidAuto to /usr/sbin/ARMAndroidAuto 完成
+2025/03/16 17:26:55.342924 upg.go:342: Flash 写入速度: 169198 Byte/s 
+2025/03/16 17:26:55.343115 upg.go:353: 已写入: 676794 byte, 升级进度: 22
+2025/03/16 17:26:55.468902 upgradeItemApps.go:402: 创建 /usr/sbin/ 文件夹 后 覆盖 /tmp/update/usr/sbin/ARMadb-driver to /usr/sbin/ARMadb-driver 完成
+2025/03/16 17:26:56.361031 upg.go:342: Flash 写入速度: 177643 Byte/s 
+2025/03/16 17:26:56.361221 upg.go:353: 已写入: 888218 byte, 升级进度: 24
+2025/03/16 17:26:57.382076 upg.go:353: 已写入: 888218 byte, 升级进度: 27
+2025-03-16 17:26:57.516224: Error connecting to local SDP
+2025/03/16 17:26:57.857484 upgradeItemApps.go:402: 创建 /usr/sbin/ 文件夹 后 覆盖 /tmp/update/usr/sbin/hcid to /usr/sbin/hcid 完成
+2025/03/16 17:26:58.293425 upgradeItemApps.go:402: 创建 /usr/sbin/ 文件夹 后 覆盖 /tmp/update/usr/sbin/usbmuxd to /usr/sbin/usbmuxd 完成
+2025/03/16 17:26:58.402545 upg.go:337: Flash预估写入: 1065861 Byte, 大于实际写入: 1052702 Byte
+2025/03/16 17:26:58.402740 upg.go:342: Flash 写入速度: 150386 Byte/s 
+2025/03/16 17:26:58.402826 upg.go:353: 已写入: 1052702 byte, 升级进度: 27
+2025/03/16 17:26:59.454193 upg.go:353: 已写入: 1052702 byte, 升级进度: 29
+2025/03/16 17:27:00.474425 upg.go:353: 已写入: 1052702 byte, 升级进度: 30
+check_log_size: 164357 byte
+2025/03/16 17:27:01.494273 upg.go:353: 已写入: 1052702 byte, 升级进度: 32
+2025/03/16 17:27:02.512993 upg.go:353: 已写入: 1052702 byte, 升级进度: 34
+2025-03-16 17:27:02.517030: Error connecting to local SDP
+2025/03/16 17:27:03.536214 upg.go:353: 已写入: 1052702 byte, 升级进度: 36
+2025/03/16 17:27:04.556309 upg.go:353: 已写入: 1052702 byte, 升级进度: 38
+2025/03/16 17:27:04.588349 upgradeItemApps.go:402: 创建 /lib/firmware/rtlbt/ 文件夹 后 覆盖 /tmp/update/lib/firmware/rtlbt/rtl8822_ko.tar.gz to /lib/firmware/rtlbt/rtl8822_ko.tar.gz 完成
+2025/03/16 17:27:04.629426 upgradeItemApps.go:402: 创建 /etc/ 文件夹 后 覆盖 /tmp/update/etc/hostapd.conf to /etc/hostapd.conf 完成
+2025/03/16 17:27:04.867592 upgradeItemApps.go:402: 创建 /script/ 文件夹 后 覆盖 /tmp/update/script/update_box_ota.sh to /script/update_box_ota.sh 完成
+2025/03/16 17:27:04.912928 upgradeItemApps.go:402: 创建 /etc/ 文件夹 后 覆盖 /tmp/update/etc/udhcpd.conf to /etc/udhcpd.conf 完成
+2025/03/16 17:27:04.952353 upgradeItemApps.go:402: 创建 /etc/ 文件夹 后 覆盖 /tmp/update/etc/software_version to /etc/software_version 完成
+2025/03/16 17:27:04.990599 upgradeItemApps.go:402: 创建 /usr/lib/ 文件夹 后 覆盖 /tmp/update/usr/lib/libssl.so to /usr/lib/libssl.so 完成
+2025/03/16 17:27:05.028062 upgradeItemApps.go:402: 创建 /usr/lib/ 文件夹 后 覆盖 /tmp/update/usr/lib/libcrypto.so to /usr/lib/libcrypto.so 完成
+2025/03/16 17:27:05.079924 upgradeItemApps.go:402: 创建 /script/ 文件夹 后 覆盖 /tmp/update/script/after_shutdown.sh to /script/after_shutdown.sh 完成
+2025/03/16 17:27:05.139495 upgradeItemApps.go:402: 创建 /etc/bluetooth/ 文件夹 后 覆盖 /tmp/update/etc/bluetooth/eir_info to /etc/bluetooth/eir_info 完成
+2025/03/16 17:27:05.326018 upgradeItemApps.go:402: 创建 /script/ 文件夹 后 覆盖 /tmp/update/script/module_upgrade.sh to /script/module_upgrade.sh 完成
+2025/03/16 17:27:05.569397 upgradeItemApps.go:402: 创建 /script/ 文件夹 后 覆盖 /tmp/update/script/start_iphone.sh to /script/start_iphone.sh 完成
+2025/03/16 17:27:05.574587 upg.go:342: Flash 写入速度: 148444 Byte/s 
+2025/03/16 17:27:05.574910 upg.go:353: 已写入: 2078222 byte, 升级进度: 39
+2025/03/16 17:27:05.628065 upgradeItemApps.go:402: 创建 /etc/bluetooth/ 文件夹 后 覆盖 /tmp/update/etc/bluetooth/hcid.conf to /etc/bluetooth/hcid.conf 完成
+2025/03/16 17:27:05.670262 upgradeItemApps.go:402: 创建 /script/ 文件夹 后 覆盖 /tmp/update/script/attach_bluetooth.sh to /script/attach_bluetooth.sh 完成
+2025/03/16 17:27:05.914368 upgradeItemApps.go:402: 创建 /script/ 文件夹 后 覆盖 /tmp/update/script/getFuncModule.sh to /script/getFuncModule.sh 完成
+2025/03/16 17:27:05.958606 upgradeItemApps.go:402: 创建 /script/ 文件夹 后 覆盖 /tmp/update/script/start_bluetooth_wifi.sh to /script/start_bluetooth_wifi.sh 完成
+2025/03/16 17:27:06.606477 upg.go:342: Flash 写入速度: 139465 Byte/s 
+2025/03/16 17:27:06.606673 upg.go:353: 已写入: 2091986 byte, 升级进度: 39
+2025/03/16 17:27:06.694652 upgradeItemApps.go:402: 创建 /usr/sbin/ 文件夹 后 覆盖 /tmp/update/usr/sbin/bluetoothDaemon to /usr/sbin/bluetoothDaemon 完成
+2025/03/16 17:27:06.927351 upgradeItemApps.go:402: 创建 /script/ 文件夹 后 覆盖 /tmp/update/script/phone_link_deamon.sh to /script/phone_link_deamon.sh 完成
+2025/03/16 17:27:07.131894 upgradeItemApps.go:402: 创建 /usr/sbin/ 文件夹 后 覆盖 /tmp/update/usr/sbin/ARMHiCar to /usr/sbin/ARMHiCar 完成
+2025-03-16 17:27:07.520580: Error connecting to local SDP
+2025/03/16 17:27:07.624213 upg.go:342: Flash 写入速度: 145874 Byte/s 
+2025/03/16 17:27:07.624413 upg.go:353: 已写入: 2333986 byte, 升级进度: 42
+2025/03/16 17:27:07.989923 upgradeItemApps.go:402: 创建 /usr/sbin/ 文件夹 后 覆盖 /tmp/update/usr/sbin/hfpd to /usr/sbin/hfpd 完成
+2025/03/16 17:27:08.234059 upgradeItemApps.go:402: 创建 /script/ 文件夹 后 覆盖 /tmp/update/script/start_mtp.sh to /script/start_mtp.sh 完成
+2025/03/16 17:27:08.274245 upgradeItemApps.go:402: 创建 /script/ 文件夹 后 覆盖 /tmp/update/script/start_android_ncm.sh to /script/start_android_ncm.sh 完成
+2025/03/16 17:27:08.645615 upg.go:342: Flash 写入速度: 144888 Byte/s 
+2025/03/16 17:27:08.645882 upg.go:353: 已写入: 2463103 byte, 升级进度: 44
+2025/03/16 17:27:09.269366 upgradeItemApps.go:402: 创建 /usr/sbin/ 文件夹 后 覆盖 /tmp/update/usr/sbin/ARMiPhoneIAP2 to /usr/sbin/ARMiPhoneIAP2 完成
+2025/03/16 17:27:09.660000 upg.go:342: Flash 写入速度: 146899 Byte/s 
+2025/03/16 17:27:09.660194 upg.go:353: 已写入: 2644187 byte, 升级进度: 46
+2025/03/16 17:27:10.678438 upg.go:353: 已写入: 2644187 byte, 升级进度: 48
+2025/03/16 17:27:11.322586 upgradeItemApps.go:402: 创建 /usr/sbin/ 文件夹 后 覆盖 /tmp/update/usr/sbin/AppleCarPlay to /usr/sbin/AppleCarPlay 完成
+2025/03/16 17:27:11.375200 upgradeItemApps.go:402: 创建 /usr/lib/ 文件夹 后 覆盖 /tmp/update/usr/lib/libdmsdpgpshandler.so to /usr/lib/libdmsdpgpshandler.so 完成
+2025/03/16 17:27:11.663327 upgradeItemApps.go:402: 创建 /usr/sbin/ 文件夹 后 覆盖 /tmp/update/usr/sbin/hcitool to /usr/sbin/hcitool 完成
+2025/03/16 17:27:11.699018 upg.go:342: Flash 写入速度: 151045 Byte/s 
+2025/03/16 17:27:11.699214 upg.go:353: 已写入: 3020911 byte, 升级进度: 51
+2025/03/16 17:27:11.782671 upgradeItemApps.go:402: 创建 /usr/lib/ 文件夹 后 覆盖 /tmp/update/usr/lib/libhicar.so to /usr/lib/libhicar.so 完成
+2025/03/16 17:27:12.104092 upgradeItemApps.go:402: 创建 /usr/lib/ 文件夹 后 覆盖 /tmp/update/usr/lib/libauthagent.so to /usr/lib/libauthagent.so 完成
+2025/03/16 17:27:12.451457 upgradeItemApps.go:402: 创建 /usr/lib/ 文件夹 后 覆盖 /tmp/update/usr/lib/libdmsdpaudiohandler.so to /usr/lib/libdmsdpaudiohandler.so 完成
+2025-03-16 17:27:12.526290: Error connecting to local SDP
+2025/03/16 17:27:12.684857 upgradeItemApps.go:402: 创建 /usr/lib/ 文件夹 后 覆盖 /tmp/update/usr/lib/libdmsdpcrypto.so to /usr/lib/libdmsdpcrypto.so 完成
+2025/03/16 17:27:12.685049 upgradeItem.go:73: upgradeItemFlashWrite off:2048 len:1024
+2025/03/16 17:27:12.716838 upg.go:342: Flash 写入速度: 153464 Byte/s 
+2025/03/16 17:27:12.717007 upg.go:353: 已写入: 3222744 byte, 升级进度: 53
+2025/03/16 17:27:13.316821 upgradeItem.go:73: upgradeItemFlashWrite off:3072 len:1024
+2025/03/16 17:27:13.699638 upgradeItem.go:73: upgradeItemFlashWrite off:4096 len:192512
+2025/03/16 17:27:13.730940 upg.go:342: Flash 写入速度: 146581 Byte/s 
+2025/03/16 17:27:13.731128 upg.go:353: 已写入: 3224792 byte, 升级进度: 53
+2025/03/16 17:27:14.752213 upg.go:353: 已写入: 3224792 byte, 升级进度: 55
+2025/03/16 17:27:14.799409 upgradeItem.go:73: upgradeItemFlashWrite off:262144 len:65536
+2025/03/16 17:27:15.071428 upgradeItem.go:73: upgradeItemFlashWrite off:327680 len:65536
+2025/03/16 17:27:15.341253 upgradeItem.go:73: upgradeItemFlashWrite off:393216 len:65536
+2025/03/16 17:27:15.616931 upgradeItem.go:73: upgradeItemFlashWrite off:458752 len:65536
+2025/03/16 17:27:15.774721 upg.go:342: Flash 写入速度: 150579 Byte/s 
+2025/03/16 17:27:15.774917 upg.go:353: 已写入: 3613912 byte, 升级进度: 58
+2025/03/16 17:27:15.998429 upgradeItem.go:73: upgradeItemFlashWrite off:524288 len:65536
+2025/03/16 17:27:16.374500 upgradeItem.go:73: upgradeItemFlashWrite off:589824 len:65536
+2025/03/16 17:27:16.735804 upgradeItem.go:73: upgradeItemFlashWrite off:655360 len:65536
+2025/03/16 17:27:16.790820 upg.go:342: Flash 写入速度: 152420 Byte/s 
+2025/03/16 17:27:16.791008 upg.go:353: 已写入: 3810520 byte, 升级进度: 61
+2025/03/16 17:27:17.104772 upgradeItem.go:73: upgradeItemFlashWrite off:720896 len:65536
+2025/03/16 17:27:17.473589 upgradeItem.go:73: upgradeItemFlashWrite off:786432 len:65536
+2025-03-16 17:27:17.531914: Error connecting to local SDP
+2025/03/16 17:27:17.812722 upg.go:342: Flash 写入速度: 151599 Byte/s 
+2025/03/16 17:27:17.812908 upg.go:353: 已写入: 3941592 byte, 升级进度: 62
+2025/03/16 17:27:17.847136 upgradeItem.go:73: upgradeItemFlashWrite off:851968 len:65536
+2025/03/16 17:27:18.208882 upgradeItem.go:73: upgradeItemFlashWrite off:917504 len:65536
+2025/03/16 17:27:18.576471 upgradeItem.go:73: upgradeItemFlashWrite off:983040 len:65536
+2025/03/16 17:27:18.833373 upg.go:342: Flash 写入速度: 153266 Byte/s 
+2025/03/16 17:27:18.833566 upg.go:353: 已写入: 4138200 byte, 升级进度: 65
+2025/03/16 17:27:18.997379 upgradeItem.go:73: upgradeItemFlashWrite off:1048576 len:65536
+2025/03/16 17:27:19.382496 upgradeItem.go:73: upgradeItemFlashWrite off:1114112 len:65536
+2025/03/16 17:27:19.762577 upgradeItem.go:73: upgradeItemFlashWrite off:1179648 len:65536
+2025/03/16 17:27:19.852794 upg.go:342: Flash 写入速度: 154814 Byte/s 
+2025/03/16 17:27:19.852996 upg.go:353: 已写入: 4334808 byte, 升级进度: 67
+2025/03/16 17:27:20.125908 upgradeItem.go:73: upgradeItemFlashWrite off:1245184 len:65536
+2025/03/16 17:27:20.491564 upgradeItem.go:73: upgradeItemFlashWrite off:1310720 len:65536
+2025/03/16 17:27:20.852292 upgradeItem.go:73: upgradeItemFlashWrite off:1376256 len:65536
+2025/03/16 17:27:20.875428 upg.go:342: Flash 写入速度: 156255 Byte/s 
+2025/03/16 17:27:20.875861 upg.go:353: 已写入: 4531416 byte, 升级进度: 69
+2025/03/16 17:27:21.216336 upgradeItem.go:73: upgradeItemFlashWrite off:1441792 len:65536
+2025/03/16 17:27:21.574373 upgradeItem.go:73: upgradeItemFlashWrite off:1507328 len:65536
+2025/03/16 17:27:21.896079 upg.go:342: Flash 写入速度: 155416 Byte/s 
+2025/03/16 17:27:21.896271 upg.go:353: 已写入: 4662488 byte, 升级进度: 71
+2025/03/16 17:27:21.944771 upgradeItem.go:73: upgradeItemFlashWrite off:1572864 len:65536
+2025/03/16 17:27:22.303028 upgradeItem.go:73: upgradeItemFlashWrite off:1638400 len:65536
+2025-03-16 17:27:22.536165: Error connecting to local SDP
+2025/03/16 17:27:22.715980 upgradeItem.go:73: upgradeItemFlashWrite off:1703936 len:65536
+2025/03/16 17:27:22.913432 upg.go:342: Flash 写入速度: 156745 Byte/s 
+2025/03/16 17:27:22.913623 upg.go:353: 已写入: 4859096 byte, 升级进度: 73
+2025/03/16 17:27:23.083199 upgradeItem.go:73: upgradeItemFlashWrite off:1769472 len:65536
+2025/03/16 17:27:23.490892 upgradeItem.go:73: upgradeItemFlashWrite off:1835008 len:65536
+2025/03/16 17:27:23.894667 upgradeItem.go:73: upgradeItemFlashWrite off:1900544 len:65536
+2025/03/16 17:27:23.935884 upg.go:342: Flash 写入速度: 157990 Byte/s 
+2025/03/16 17:27:23.936078 upg.go:353: 已写入: 5055704 byte, 升级进度: 76
+2025/03/16 17:27:24.262035 upgradeItem.go:73: upgradeItemFlashWrite off:1966080 len:65536
+2025/03/16 17:27:24.628055 upgradeItem.go:73: upgradeItemFlashWrite off:2031616 len:65536
+2025/03/16 17:27:24.956803 upg.go:342: Flash 写入速度: 157175 Byte/s 
+2025/03/16 17:27:24.956992 upg.go:353: 已写入: 5186776 byte, 升级进度: 77
+2025/03/16 17:27:24.999052 upgradeItem.go:73: upgradeItemFlashWrite off:2097152 len:65536
+2025/03/16 17:27:25.353604 upgradeItem.go:73: upgradeItemFlashWrite off:2162688 len:65536
+2025/03/16 17:27:25.709900 upgradeItem.go:73: upgradeItemFlashWrite off:2228224 len:65536
+2025/03/16 17:27:25.974290 upg.go:342: Flash 写入速度: 158334 Byte/s 
+2025/03/16 17:27:25.974477 upg.go:353: 已写入: 5383384 byte, 升级进度: 80
+2025/03/16 17:27:26.070994 upgradeItem.go:73: upgradeItemFlashWrite off:2293760 len:65536
+2025/03/16 17:27:26.438158 upgradeItem.go:73: upgradeItemFlashWrite off:2359296 len:65536
+2025/03/16 17:27:26.794278 upgradeItem.go:73: upgradeItemFlashWrite off:2424832 len:65536
+2025/03/16 17:27:26.993295 upg.go:342: Flash 写入速度: 159428 Byte/s 
+2025/03/16 17:27:26.993486 upg.go:353: 已写入: 5579992 byte, 升级进度: 82
+2025/03/16 17:27:27.151964 upgradeItem.go:73: upgradeItemFlashWrite off:2490368 len:65536
+2025/03/16 17:27:27.505434 upgradeItem.go:73: upgradeItemFlashWrite off:2555904 len:65536
+2025-03-16 17:27:27.542094: Error connecting to local SDP
+2025/03/16 17:27:27.882453 upgradeItem.go:73: upgradeItemFlashWrite off:2621440 len:65536
+2025/03/16 17:27:28.015590 upg.go:342: Flash 写入速度: 160461 Byte/s 
+2025/03/16 17:27:28.015862 upg.go:353: 已写入: 5776600 byte, 升级进度: 85
+2025/03/16 17:27:28.267248 upgradeItem.go:73: upgradeItemFlashWrite off:2686976 len:65536
+2025/03/16 17:27:28.657962 upgradeItem.go:73: upgradeItemFlashWrite off:2752512 len:65536
+2025/03/16 17:27:29.027692 upgradeItem.go:73: upgradeItemFlashWrite off:2818048 len:65536
+2025/03/16 17:27:29.036036 upg.go:342: Flash 写入速度: 161438 Byte/s 
+2025/03/16 17:27:29.036249 upg.go:353: 已写入: 5973208 byte, 升级进度: 87
+2025/03/16 17:27:29.407723 upgradeItem.go:73: upgradeItemFlashWrite off:2883584 len:65536
+2025/03/16 17:27:29.777189 upgradeItem.go:73: upgradeItemFlashWrite off:2949120 len:65536
+2025/03/16 17:27:30.061895 upg.go:342: Flash 写入速度: 160638 Byte/s 
+2025/03/16 17:27:30.062093 upg.go:353: 已写入: 6104280 byte, 升级进度: 89
+2025/03/16 17:27:30.144758 upgradeItem.go:73: upgradeItemFlashWrite off:3014656 len:65536
+2025/03/16 17:27:30.508396 upgradeItem.go:73: upgradeItemFlashWrite off:3080192 len:65536
+2025/03/16 17:27:30.880933 upgradeItem.go:73: upgradeItemFlashWrite off:3145728 len:65536
+2025/03/16 17:27:31.081155 upg.go:342: Flash 写入速度: 161561 Byte/s 
+2025/03/16 17:27:31.081349 upg.go:353: 已写入: 6300888 byte, 升级进度: 91
+2025/03/16 17:27:31.365962 upgradeItem.go:73: upgradeItemFlashWrite off:3211264 len:65536
+check_log_size: 177998 byte
+2025/03/16 17:27:31.739361 upgradeItem.go:73: upgradeItemFlashWrite off:3276800 len:65536
+2025/03/16 17:27:32.095216 upg.go:342: Flash 写入速度: 160799 Byte/s 
+2025/03/16 17:27:32.095410 upg.go:353: 已写入: 6431960 byte, 升级进度: 93
+2025/03/16 17:27:32.351674 upgradeItem.go:73: upgradeItemFlashWrite off:3342336 len:65536
+2025-03-16 17:27:32.546161: Error connecting to local SDP
+2025/03/16 17:27:32.733550 upgradeItem.go:73: upgradeItemFlashWrite off:3407872 len:65536
+2025/03/16 17:27:33.098083 upgradeItem.go:73: upgradeItemFlashWrite off:3473408 len:65536
+2025/03/16 17:27:33.109328 upg.go:342: Flash 写入速度: 161672 Byte/s 
+2025/03/16 17:27:33.109530 upg.go:353: 已写入: 6628568 byte, 升级进度: 95
+2025/03/16 17:27:33.471946 upgradeItem.go:73: upgradeItemFlashWrite off:3538944 len:65536
+2025/03/16 17:27:33.838849 upgradeItem.go:73: upgradeItemFlashWrite off:3604480 len:65536
+2025/03/16 17:27:34.137363 upg.go:342: Flash 写入速度: 160943 Byte/s 
+2025/03/16 17:27:34.137551 upg.go:353: 已写入: 6759640 byte, 升级进度: 97
+2025/03/16 17:27:34.167485 upgradeItem.go:73: upgradeItemFlashWrite off:196608 len:65536
+2025/03/16 17:27:34.740342 upg.go:502: upgrade successfully
+2025/03/16 17:27:35.159248 upg.go:342: Flash 写入速度: 160249 Byte/s 
+2025/03/16 17:27:35.159439 upg.go:353: 已写入: 6890712 byte, 升级进度: 99
+End upg
