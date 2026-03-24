@@ -112,3 +112,5 @@ https://github.com/segfly/carlinkit-modding
 https://github.com/Henkru/cplay2air-wifi-passphrase-patch
 
 https://github.com/Quikeramos1/Unbrik-Carlinkit-V3
+
+https://github.com/lvalen91/CPC200-CCPA-Firmware-Dump
