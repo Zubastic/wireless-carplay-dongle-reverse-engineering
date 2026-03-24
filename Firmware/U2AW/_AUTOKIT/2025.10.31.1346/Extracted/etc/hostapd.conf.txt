@@ -1,0 +1,52 @@
+# Basic configuration
+
+interface=wlan0
+ssid=AutoBox-582f
+
+# WPA and WPA2 configuration
+
+macaddr_acl=0
+auth_algs=3
+ignore_broadcast_ssid=0
+wpa=3
+wpa_passphrase=12345678
+wpa_key_mgmt=WPA-PSK
+wpa_pairwise=CCMP
+rsn_pairwise=CCMP
+
+driver=nl80211
+ieee80211n=1
+#ieee80211ac=1
+country_code=US
+wmm_enabled=1
+#hw_mode=g
+#channel=11
+hw_mode=a
+channel=36
+#require_ht=1
+#require_vht=1
+
+ht_capab=[SHORT-GI-20]
+#ht_capab=[SHORT-GI-20][SHORT-GI-40][HT40+]
+#ht_capab=[SHORT-GI-20][SHORT-GI-40][HT40-]
+#vht_capab=[SHORT-GI-80][SHORT-GI-160]
+
+
+wmm_enabled=1
+wmm_ac_vo_acm=0       # 允许语音类(AC_VO)流量不经准入控制直接发送
+#wmm_ac_vi_acm=0       # 允许视频类(AC_VI)流量直接发送
+wmm_ac_vo_aifs=1      # 语音类AIFS值（越小优先级越高）
+wmm_ac_vo_cwmin=1     # 语音类最小竞争窗口
+wmm_ac_vo_txop_limit=94   # 语音类单次传输时间上限（单位：32μs）
+wmm_ac_vi_aifs=3      # 视频类AIFS值
+wmm_ac_vi_cwmin=3     # 视频类最小竞争窗口
+wmm_ac_vi_txop_limit=8   # 视频类传输时间上限
+#
+wmm_ac_bk_aifs=8       # AIFSN值（默认3，增大可降低优先级）
+wmm_ac_bk_cwmin=8      # 最小竞争窗口（默认4，增大可减少信道占用）
+wmm_ac_bk_txop_limit=0 # TXOP时间限制（设为0禁止连续发送）
+wmm_ac_be_aifs=9       # AIFSN值（默认3，增大可降低优先级）
+wmm_ac_be_cwmin=9      # 最小竞争窗口（默认4，增大可减少信道占用）
+wmm_ac_be_txop_limit=0 # TXOP时间限制（设为0禁止连续发送）
+
+

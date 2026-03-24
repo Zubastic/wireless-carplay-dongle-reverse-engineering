@@ -6,10 +6,11 @@ Power the dongle (not from the car) and **wait till the red light is solid befor
 
 Wait for the blue and red LEDs to stop flashing, you can unplug the USB key when the the red light is solid, the device will reboot by itself.
 
-#### Warning: Official firmware 2021.03.06 or later can only be downgraded using U2W_Update_2020.11.10.2138_ROLLBACK.img
-
 | Firmware | Type | Download link |
 | - | - | - |
+| 2024.12.28.1525 | AUTOKIT | https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering/raw/master/Firmware/U2W/_AUTOKIT/2024.12.28.1525/U2W_AUTOKIT_Update.img |
+| 2024.05.15.1507 |  | https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering/raw/master/Firmware/U2W/_/2024.05.15.1507/U2W_Update.img |
+| 2024.03.11.1840 | CP2AIR | https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering/raw/master/Firmware/U2W/_CP2AIR/2024.03.11.1840/U2W_CP2AIR_Update.img |
 | 2023.12.28.1212 | AUTOKIT | https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering/raw/master/Firmware/U2W/_AUTOKIT/2023.12.28.1212/U2W_AUTOKIT_Update.img |
 | 2023.10.31.1425 | AUTOKIT | https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering/raw/master/Firmware/U2W/_AUTOKIT/2023.10.31.1425/U2W_AUTOKIT_Update.img |
 | 2023.05.13.1107 | AUTOKIT | https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering/raw/master/Firmware/U2W/_AUTOKIT/2023.05.13.1107/U2W_AUTOKIT_Update.img |
